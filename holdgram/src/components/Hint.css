@@ -1,0 +1,8 @@
+.hint-container {
+    width: 100%;
+    text-align: right;
+}
+
+.hint {
+    cursor: pointer;
+}

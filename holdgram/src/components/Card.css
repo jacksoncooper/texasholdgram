@@ -1,0 +1,43 @@
+.card {
+    display: inline-flex;
+
+    margin-bottom: 2rem;
+
+    justify-content: center;
+    align-items: center;
+
+    vertical-align: bottom;
+
+    font-size: 5rem;
+    width: 6rem;
+    height: 9rem;
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.8rem;
+
+    background-color: white;
+
+    /* transition: transform 12s, font-size 10s ease-in-out, background-color 8s; */
+    transition: transform 0.6s, font-size ease-in-out 0.5s, background-color 0.4s;
+
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.facedown-card {
+    background-color: #D86F74;
+    font-size: 0;
+    transform: rotateY(180deg);
+}
+
+@media (hover: hover) {
+    .card:not(.facedown-card):hover {
+        transform: translateY(-0.1em);
+        cursor: pointer;
+    }
+}
+
+.card:not(.facedown-card):active {
+    transform: rotate(60deg);
+}

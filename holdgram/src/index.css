@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+    padding: 1rem;
+    max-width: 48rem;
+}
+
+body {
+    font-family: 'EB Garamond';
+    background-color: #E9EDC9;
+}
+
+* {
+    box-sizing: border-box;
+}

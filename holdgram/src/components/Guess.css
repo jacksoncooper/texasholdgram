@@ -1,0 +1,21 @@
+.guess {
+    width: 100%;
+
+    margin-bottom: 2rem;
+
+    font-family: 'EB Garamond';
+    font-size: 4rem;
+
+    text-align: center;
+
+    background-color: #E9EDC9;
+
+    border-style: dotted;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 0.2rem;
+
+    padding: 0.4rem;
+
+    letter-spacing: 0.1rem;
+}

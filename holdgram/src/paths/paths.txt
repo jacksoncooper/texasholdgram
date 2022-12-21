@@ -1,0 +1,1294 @@
+{art, rat} + e -> {rate, tear} + c -> {cater, react, trace} + e -> {create} + h -> {teacher}
+{opt, pot, top} + l -> {plot} + i -> {pilot} + e -> {polite} + x -> {exploit}
+{ash} + c -> {cash} + r -> {crash} + e -> {search}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + t -> {threat} + s -> {shatter}
+{net, ten} + c -> {cent} + a -> {enact} + c -> {accent}
+{pan} + l -> {plan} + t -> {plant} + e -> {planet} + y -> {penalty}
+{for} + o -> {roof} + l -> {floor}
+{bin} + d -> {bind} + l -> {blind}
+{art, rat} + e -> {rate, tear} + t -> {treat} + h -> {threat} + e -> {theatre} + n -> {threaten}
+{ear, era} + c -> {acre, care, race} + g -> {grace} + h -> {charge}
+{bet} + a -> {beat} + l -> {table} + t -> {battle, tablet}
+{lap} + n -> {plan} + t -> {plant} + e -> {planet} + y -> {penalty}
+{lad} + e -> {deal, lead} + i -> {ideal} + f -> {failed}
+{rid} + e -> {ride} + t -> {tired} + c -> {credit, direct} + p -> {predict}
+{rid} + t -> {dirt} + e -> {tired} + c -> {credit, direct} + p -> {predict}
+{her} + a -> {hear} + c -> {reach} + p -> {preach} + t -> {chapter}
+{rod} + o -> {door} + n -> {donor} + i -> {indoor} + s -> {indoors}
+{set} + a -> {east, seat} + l -> {least, steal} + c -> {castle}
+{red} + i -> {ride} + v -> {drive} + t -> {divert} + c -> {verdict}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + g -> {target}
+{her} + e -> {here} + t -> {there, three} + i -> {either} + n -> {neither} + n -> {inherent}
+{die} + v -> {dive} + r -> {drive} + a -> {varied}
+{and} + b -> {band} + r -> {brand}
+{fee} + l -> {feel, flee} + t -> {fleet}
+{our} + t -> {tour} + e -> {outer, route}
+{all} + y -> {ally} + o -> {loyal}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + f -> {father} + e -> {feather}
+{nor} + i -> {iron} + m -> {minor} + f -> {inform} + c -> {confirm}
+{die} + r -> {ride} + v -> {drive} + r -> {driver}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + e -> {eternal} + v -> {relevant}
+{die} + r -> {ride} + v -> {drive} + e -> {derive} + l -> {deliver} + y -> {delivery}
+{let} + a -> {late, tale} + b -> {table} + t -> {battle, tablet}
+{die} + r -> {ride} + b -> {bride} + g -> {bridge}
+{dam, mad} + i -> {amid} + t -> {admit}
+{eat, tea} + s -> {east, seat} + r -> {stare} + m -> {master, stream}
+{too} + b -> {boot} + r -> {robot}
+{tie} + m -> {item, time} + r -> {merit} + b -> {timber}
+{aim} + d -> {amid} + e -> {media} + r -> {admire} + r -> {married}
+{set} + r -> {rest} + o -> {store} + r -> {resort} + e -> {restore}
+{our} + f -> {four} + m -> {forum}
+{set} + a -> {east, seat} + r -> {stare} + v -> {starve} + n -> {servant}
+{set} + a -> {east, seat} + w -> {waste}
+{rid} + e -> {ride} + v -> {drive} + e -> {derive} + p -> {deprive}
+{rod} + w -> {word} + c -> {crowd}
+{rid} + e -> {ride} + t -> {tired} + v -> {divert} + c -> {verdict}
+{too} + r -> {root} + m -> {motor}
+{eat, tea} + s -> {east, seat} + r -> {stare} + b -> {breast}
+{aid} + m -> {amid} + t -> {admit}
+{for} + g -> {frog} + e -> {forge} + t -> {forget}
+{may} + r -> {army} + o -> {mayor}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + t -> {threat} + s -> {shatter}
+{bat} + o -> {boat} + u -> {about}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + r -> {trailer} + y -> {literary}
+{ear, era} + n -> {earn, near} + l -> {learn} + i -> {linear} + m -> {mineral} + t -> {terminal}
+{lip} + s -> {slip} + o -> {spoil}
+{nut} + h -> {hunt} + a -> {haunt}
+{ice} + n -> {nice} + h -> {niche} + r -> {enrich}
+{art, rat} + e -> {rate, tear} + g -> {great} + t -> {target}
+{sir} + t -> {stir} + p -> {strip} + c -> {script}
+{one} + s -> {nose} + i -> {noise} + r -> {senior} + v -> {version} + t -> {investor}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + y -> {treaty} + b -> {battery}
+{ear, era} + d -> {dare, dear, read} + b -> {bread}
+{for} + u -> {four} + m -> {forum}
+{per} + e -> {peer} + c -> {creep} + i -> {recipe} + t -> {receipt}
+{ear, era} + n -> {earn, near} + l -> {learn} + t -> {rental} + e -> {eternal} + v -> {relevant}
+{art, rat} + e -> {rate, tear} + s -> {stare} + v -> {starve} + n -> {servant}
+{red} + i -> {ride} + v -> {drive} + e -> {derive} + s -> {diverse}
+{cue} + r -> {cure} + v -> {curve} + d -> {curved}
+{lay} + l -> {ally} + r -> {rally} + e -> {really} + c -> {clearly}
+{its, sit} + r -> {stir} + w -> {wrist}
+{aid} + e -> {aide, idea} + l -> {ideal} + t -> {detail}
+{all} + b -> {ball} + e -> {label} + i -> {liable} + r -> {liberal} + e -> {reliable}
+{die} + r -> {ride} + v -> {drive} + a -> {varied}
+{tin} + u -> {unit} + y -> {unity}
+{sea} + k -> {sake} + t -> {stake} + b -> {basket}
+{nut} + i -> {unit} + y -> {unity}
+{ski} + c -> {sick} + t -> {stick} + y -> {sticky}
+{lab} + e -> {able} + c -> {cable}
+{set} + a -> {east, seat} + b -> {beast} + k -> {basket}
+{old} + f -> {fold} + o -> {flood}
+{die} + a -> {aide, idea} + l -> {ideal} + n -> {denial} + g -> {leading}
+{art, rat} + e -> {rate, tear} + f -> {after} + h -> {father} + e -> {feather}
+{not, ton} + e -> {note, tone} + f -> {often}
+{log} + a -> {goal} + n -> {along} + s -> {slogan}
+{sad} + n -> {sand} + t -> {stand} + r -> {strand}
+{per} + a -> {rape} + p -> {paper} + a -> {appear}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + t -> {threat} + s -> {shatter}
+{bat} + e -> {beat} + l -> {table} + s -> {stable}
+{sir} + t -> {stir} + f -> {first}
+{red} + u -> {rude} + n -> {under} + e -> {endure}
+{ear, era} + l -> {real} + g -> {large}
+{die} + w -> {wide} + n -> {widen}
+{age} + r -> {gear, rage} + u -> {argue}
+{sea} + l -> {sale, seal} + v -> {slave}
+{age} + d -> {aged} + r -> {grade} + r -> {regard}
+{opt, pot, top} + s -> {post, spot, stop} + r -> {sport} + a -> {pastor}
+{lie} + n -> {line} + a -> {alien} + r -> {linear} + m -> {mineral} + t -> {terminal}
+{bid} + r -> {bird} + e -> {bride} + s -> {debris}
+{let} + a -> {late, tale} + p -> {plate} + n -> {planet} + y -> {penalty}
+{ill} + k -> {kill} + s -> {skill}
+{rid} + e -> {ride} + v -> {drive} + e -> {derive} + s -> {diverse}
+{oil} + s -> {soil} + d -> {solid}
+{tie} + s -> {site} + u -> {suite} + s -> {tissue}
+{bat} + e -> {beat} + s -> {beast} + n -> {absent}
+{per} + o -> {rope} + v -> {prove}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + d -> {related}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + e -> {relate} + n -> {eternal} + v -> {relevant}
+{set} + a -> {east, seat} + b -> {beast} + l -> {stable}
+{ear, era} + h -> {hear} + t -> {earth, heart} + d -> {hatred, thread}
+{eat, tea} + r -> {rate, tear} + s -> {stare} + v -> {starve} + n -> {servant}
+{her} + s -> {hers} + e -> {sheer} + p -> {sphere}
+{set} + r -> {rest} + o -> {store} + k -> {stroke}
+{lab} + l -> {ball} + e -> {label} + i -> {liable} + r -> {liberal} + e -> {reliable}
+{art, rat} + e -> {rate, tear} + t -> {treat} + o -> {rotate}
+{let} + a -> {late, tale} + m -> {metal} + n -> {mental}
+{rid} + a -> {raid} + o -> {radio}
+{ash} + c -> {cash} + o -> {chaos}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + n -> {rental} + e -> {eternal} + x -> {external}
+{ban} + k -> {bank} + l -> {blank}
+{red} + i -> {ride} + t -> {tired} + c -> {credit, direct} + v -> {verdict}
+{eat, tea} + d -> {date} + r -> {trade} + h -> {hatred, thread}
+{die} + v -> {dive} + r -> {drive} + e -> {derive} + l -> {deliver} + e -> {relieved}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + e -> {eternal} + v -> {relevant}
+{aid} + r -> {raid} + y -> {dairy, diary} + f -> {friday}
+{eat, tea} + s -> {east, seat} + w -> {waste}
+{sea} + c -> {case} + e -> {cease} + p -> {escape}
+{nor} + i -> {iron} + y -> {irony}
+{may} + r -> {army} + r -> {marry}
+{bat} + e -> {beat} + l -> {table} + l -> {ballet}
+{air} + d -> {raid} + o -> {radio}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{hat} + w -> {what} + c -> {watch}
+{eat, tea} + s -> {east, seat} + t -> {state, taste} + u -> {statue}
+{but} + e -> {tube} + d -> {debut} + g -> {budget}
+{red} + i -> {ride} + w -> {weird}
+{log} + b -> {blog} + e -> {globe} + i -> {oblige}
+{ear, era} + h -> {hear} + t -> {earth, heart} + b -> {breath} + e -> {breathe}
+{bet} + a -> {beat} + l -> {table} + l -> {ballet}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + e -> {relate} + d -> {related}
+{ill} + p -> {pill} + s -> {spill}
+{sea} + k -> {sake} + h -> {shake}
+{pit, tip} + r -> {trip} + s -> {strip} + i -> {spirit}
+{eat, tea} + r -> {rate, tear} + s -> {stare} + s -> {assert} + c -> {actress}
+{age} + r -> {gear, rage} + n -> {anger, range} + i -> {regain} + h -> {hearing}
+{rid} + a -> {raid} + n -> {drain}
+{raw, war} + e -> {wear} + s -> {swear} + n -> {answer}
+{net, ten} + s -> {nest} + o -> {stone} + h -> {honest} + y -> {honesty}
+{hat} + e -> {hate, heat} + d -> {death} + r -> {hatred, thread}
+{ice} + n -> {nice} + h -> {niche} + t -> {ethnic} + k -> {kitchen}
+{her} + a -> {hear} + c -> {reach} + s -> {search}
+{lab} + e -> {able} + d -> {blade}
+{act, cat} + f -> {fact} + r -> {craft} + o -> {factor} + y -> {factory}
+{ear, era} + g -> {gear, rage} + n -> {anger, range} + i -> {regain} + h -> {hearing}
+{hit} + s -> {this} + g -> {sight} + l -> {slight}
+{art, rat} + e -> {rate, tear} + s -> {stare} + v -> {starve} + h -> {harvest}
+{hat} + e -> {hate, heat} + c -> {cheat, teach}
+{air} + l -> {rail} + t -> {trail, trial} + e -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{ear, era} + t -> {rate, tear} + c -> {cater, react, trace} + p -> {carpet} + u -> {capture}
+{red} + a -> {dare, dear, read} + y -> {ready}
+{sea} + t -> {east, seat} + w -> {waste}
+{car} + e -> {acre, care, race} + s -> {scare} + d -> {sacred, scared}
+{her} + e -> {here} + w -> {where}
+{her} + s -> {hers} + a -> {share} + p -> {phrase} + p -> {perhaps}
+{eat, tea} + r -> {rate, tear} + d -> {trade} + h -> {hatred, thread}
+{eat, tea} + l -> {late, tale} + b -> {table} + t -> {battle, tablet}
+{ear, era} + b -> {bare, bear} + v -> {brave} + l -> {verbal}
+{sea} + t -> {east, seat} + r -> {stare} + m -> {master, stream}
+{say} + e -> {easy} + s -> {essay}
+{per} + u -> {pure} + s -> {super} + b -> {superb}
+{her} + e -> {here} + c -> {cheer}
+{sea} + v -> {save} + l -> {slave}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + r -> {trailer} + y -> {literary}
+{arm} + f -> {farm} + e -> {frame} + r -> {farmer} + i -> {firearm}
+{tag} + e -> {gate} + r -> {great} + h -> {gather}
+{its, sit} + r -> {stir} + h -> {shirt} + e -> {theirs}
+{cue} + t -> {cute} + a -> {acute}
+{tie} + c -> {cite} + h -> {ethic} + n -> {ethnic} + k -> {kitchen}
+{set} + b -> {best} + a -> {beast} + n -> {absent}
+{rip} + a -> {pair} + d -> {rapid}
+{bet} + i -> {bite} + r -> {tribe} + m -> {timber}
+{one} + v -> {oven} + l -> {novel}
+{nut} + a -> {aunt} + h -> {haunt}
+{get} + a -> {gate} + r -> {great} + h -> {gather}
+{sea} + c -> {case} + u -> {cause, sauce} + l -> {clause} + r -> {secular}
+{bet} + s -> {best} + a -> {beast} + l -> {stable}
+{let} + a -> {late, tale} + b -> {table} + l -> {ballet}
+{get} + a -> {gate} + r -> {great} + t -> {target}
+{rid} + t -> {dirt} + y -> {dirty}
+{hat} + n -> {than} + k -> {thank} + s -> {thanks}
+{set} + n -> {nest} + o -> {stone} + h -> {honest} + y -> {honesty}
+{all} + b -> {ball} + e -> {label} + t -> {ballet}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + r -> {rather} + c -> {charter}
+{ask} + e -> {sake} + n -> {snake}
+{cue} + l -> {clue} + r -> {cruel}
+{set} + r -> {rest} + a -> {stare} + v -> {starve} + n -> {servant}
+{low} + b -> {blow, bowl} + e -> {below, elbow}
+{its, sit} + u -> {suit} + e -> {suite} + s -> {tissue}
+{sea} + c -> {case} + p -> {space} + t -> {aspect}
+{ear, era} + p -> {rape} + s -> {spare} + i -> {aspire, praise}
+{her} + o -> {hero} + s -> {horse, shore} + w -> {shower}
+{due} + r -> {rude} + c -> {crude} + v -> {curved}
+{lad} + e -> {deal, lead} + m -> {medal}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{air} + p -> {pair} + l -> {april}
+{her} + a -> {hear} + t -> {earth, heart} + d -> {hatred, thread}
+{age} + r -> {gear, rage} + e -> {agree, eager}
+{cop} + e -> {cope} + s -> {scope}
+{art, rat} + e -> {rate, tear} + c -> {cater, react, trace} + p -> {carpet} + h -> {chapter}
+{car} + e -> {acre, care, race} + h -> {reach} + g -> {charge}
+{ray} + e -> {year} + l -> {early, layer} + w -> {lawyer}
+{run} + i -> {ruin} + c -> {incur}
+{ray} + e -> {year} + l -> {early, layer} + r -> {rarely}
+{eat, tea} + n -> {neat} + c -> {enact} + c -> {accent}
+{air} + n -> {rain} + g -> {grain} + m -> {margin} + w -> {warming}
+{eat, tea} + r -> {rate, tear} + c -> {cater, react, trace} + p -> {carpet} + h -> {chapter}
+{end} + t -> {tend} + r -> {trend} + e -> {tender} + p -> {pretend}
+{bar} + e -> {bare, bear} + v -> {brave} + l -> {verbal}
+{sea} + c -> {case} + h -> {chase} + r -> {search}
+{eat, tea} + r -> {rate, tear} + g -> {great} + h -> {gather}
+{let} + a -> {late, tale} + s -> {least, steal} + t -> {latest}
+{ear, era} + c -> {acre, care, race} + l -> {clear} + l -> {recall} + y -> {clearly}
+{age} + t -> {gate} + r -> {great} + t -> {target}
+{lab} + e -> {able} + t -> {table} + t -> {battle, tablet}
+{ray} + e -> {year} + l -> {early, layer} + l -> {really} + g -> {gallery, largely}
+{due} + r -> {rude} + c -> {crude} + e -> {reduce}
+{opt, pot, top} + s -> {post, spot, stop} + r -> {sport} + e -> {poster} + t -> {protest}
+{its, sit} + r -> {stir} + f -> {first}
+{ear, era} + g -> {gear, rage} + e -> {agree, eager}
+{lap} + n -> {plan} + e -> {panel, plane} + t -> {planet} + y -> {penalty}
+{rid} + t -> {dirt} + e -> {tired} + o -> {editor}
+{eat, tea} + l -> {late, tale} + b -> {table} + s -> {stable}
+{eat, tea} + h -> {hate, heat} + d -> {death} + r -> {hatred, thread}
+{man} + e -> {mean, name} + s -> {means}
+{ear, era} + g -> {gear, rage} + d -> {grade} + n -> {danger, garden} + i -> {reading}
+{set} + a -> {east, seat} + r -> {stare} + m -> {master, stream}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + r -> {trailer} + y -> {literary}
+{art, rat} + s -> {star} + m -> {smart} + e -> {master, stream}
+{her} + a -> {hear} + s -> {share} + p -> {phrase} + p -> {perhaps}
+{buy} + r -> {bury} + g -> {rugby}
+{net, ten} + a -> {neat} + g -> {agent}
+{sad} + i -> {aids} + e -> {aside} + v -> {advise}
+{die} + r -> {ride} + v -> {drive} + e -> {derive} + p -> {deprive}
+{hot} + s -> {host, shot} + g -> {ghost}
+{opt, pot, top} + r -> {port} + s -> {sport} + e -> {poster} + t -> {protest}
+{nut} + i -> {unit} + p -> {input}
+{aid} + e -> {aide, idea} + m -> {media} + r -> {admire} + r -> {married}
+{tie} + m -> {item, time} + r -> {merit} + p -> {permit}
+{ear, era} + l -> {real} + x -> {relax}
+{hey} + a -> {yeah} + v -> {heavy}
+{lab} + e -> {able} + t -> {table} + i -> {albeit}
+{air} + l -> {rail} + t -> {trail, trial} + e -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{son} + e -> {nose} + i -> {noise} + r -> {senior} + v -> {version} + i -> {revision}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + i -> {retail} + y -> {reality} + r -> {literary}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + f -> {father} + e -> {feather}
+{its, sit} + r -> {stir} + a -> {stair} + t -> {artist} + n -> {transit} + m -> {transmit}
+{his} + g -> {sigh} + t -> {sight} + l -> {slight}
+{red} + i -> {ride} + v -> {drive} + e -> {derive} + l -> {deliver} + e -> {relieved}
+{rid} + e -> {ride} + v -> {drive} + e -> {derive} + l -> {deliver} + e -> {relieved}
+{lot} + p -> {plot} + i -> {pilot} + e -> {polite} + x -> {exploit}
+{lap} + e -> {leap, pale, plea} + p -> {apple} + a -> {appeal}
+{bet} + s -> {best} + a -> {beast} + n -> {absent}
+{per} + u -> {pure} + p -> {upper} + l -> {purple}
+{not, ton} + i -> {into} + p -> {point} + o -> {option} + r -> {portion}
+{red} + a -> {dare, dear, read} + g -> {grade} + n -> {danger, garden} + i -> {reading}
+{bee} + r -> {beer} + l -> {rebel}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + d -> {hatred, thread}
+{age} + r -> {gear, rage} + d -> {grade} + r -> {regard}
+{old} + u -> {loud} + w -> {would}
+{lie} + f -> {file, life} + d -> {field} + a -> {failed}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + r -> {rather} + c -> {charter}
+{all} + w -> {wall} + o -> {allow}
+{eat, tea} + g -> {gate} + r -> {great} + t -> {target}
+{duo} + l -> {loud} + c -> {cloud, could}
+{hit} + n -> {hint, thin} + g -> {night, thing}
+{ear, era} + t -> {rate, tear} + w -> {water} + i -> {waiter}
+{per} + a -> {rape} + o -> {opera}
+{age} + r -> {gear, rage} + v -> {grave}
+{bid} + n -> {bind} + l -> {blind}
+{air} + d -> {raid} + p -> {rapid}
+{ear, era} + l -> {real} + n -> {learn} + i -> {linear} + m -> {mineral} + t -> {terminal}
+{wet} + s -> {west} + e -> {sweet}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + d -> {related}
+{lie} + v -> {evil, live} + d -> {devil}
+{eat, tea} + m -> {mate, meat, team} + s -> {steam} + r -> {master, stream}
+{ear, era} + g -> {gear, rage} + u -> {argue}
+{her} + o -> {hero} + t -> {other} + m -> {mother}
+{pit, tip} + r -> {trip} + s -> {strip} + e -> {priest} + s -> {persist}
+{set} + t -> {test} + a -> {state, taste} + e -> {estate}
+{set} + t -> {test} + a -> {state, taste} + u -> {statue}
+{hit} + s -> {this} + f -> {shift}
+{row} + d -> {word} + s -> {sword}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + g -> {gather}
+{pan} + l -> {plan} + i -> {plain}
+{pet} + s -> {step} + e -> {steep}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + c -> {central}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + v -> {travel}
+{lie} + v -> {evil, live} + r -> {liver} + s -> {silver}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + f -> {father} + e -> {feather}
+{die} + a -> {aide, idea} + l -> {ideal} + t -> {detail}
+{her} + i -> {hire} + t -> {their} + v -> {thrive}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + t -> {threat} + s -> {shatter}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + u -> {neutral}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + b -> {breath} + e -> {breathe}
+{cap} + e -> {pace} + s -> {space} + t -> {aspect}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{pan} + i -> {pain} + t -> {paint}
+{ear, era} + g -> {gear, rage} + v -> {grave}
+{eat, tea} + r -> {rate, tear} + s -> {stare} + v -> {starve} + h -> {harvest}
+{set} + a -> {east, seat} + b -> {beast} + r -> {breast}
+{row} + d -> {word} + l -> {world}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + e -> {eternal} + v -> {relevant}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + y -> {reality} + r -> {literary}
+{win} + e -> {wine} + d -> {widen}
+{bad} + n -> {band} + r -> {brand}
+{pay} + l -> {play} + p -> {apply}
+{raw, war} + d -> {draw, ward} + a -> {award}
+{nor} + m -> {norm} + i -> {minor} + f -> {inform} + c -> {confirm}
+{age} + m -> {game} + i -> {image}
+{his} + t -> {this} + r -> {shirt} + e -> {theirs}
+{due} + r -> {rude} + n -> {under} + e -> {endure}
+{for} + o -> {roof} + p -> {proof}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + d -> {hatred, thread}
+{fee} + r -> {free} + v -> {fever}
+{nor} + m -> {norm} + i -> {minor} + f -> {inform} + u -> {uniform}
+{her} + s -> {hers} + o -> {horse, shore} + w -> {shower}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + g -> {gather}
+{per} + u -> {pure} + s -> {super} + u -> {pursue}
+{eat, tea} + d -> {date} + h -> {death} + r -> {hatred, thread}
+{set} + a -> {east, seat} + r -> {stare} + s -> {assert} + c -> {actress}
+{law} + f -> {flaw} + u -> {awful}
+{one} + z -> {zone} + d -> {dozen}
+{car} + e -> {acre, care, race} + h -> {reach} + b -> {breach} + m -> {chamber}
+{fat} + l -> {flat} + a -> {fatal}
+{car} + e -> {acre, care, race} + t -> {cater, react, trace} + e -> {create} + h -> {teacher}
+{ice} + v -> {vice} + o -> {voice}
+{lad} + e -> {deal, lead} + y -> {delay} + d -> {deadly}
+{set} + a -> {east, seat} + r -> {stare} + r -> {arrest}
+{ear, era} + t -> {rate, tear} + t -> {treat} + g -> {target}
+{nut} + e -> {tune} + i -> {unite} + m -> {minute}
+{the} + a -> {hate, heat} + r -> {earth, heart} + f -> {father} + e -> {feather}
+{one} + s -> {nose} + t -> {stone} + h -> {honest} + y -> {honesty}
+{set} + a -> {east, seat} + t -> {state, taste} + e -> {estate}
+{bow} + l -> {blow, bowl} + e -> {below, elbow}
+{ear, era} + l -> {real} + n -> {learn} + t -> {rental} + c -> {central}
+{ray} + m -> {army} + o -> {mayor}
+{cap} + e -> {pace} + l -> {place} + a -> {palace} + b -> {capable}
+{pan} + i -> {pain} + c -> {panic}
+{lap} + e -> {leap, pale, plea} + t -> {plate} + n -> {planet} + y -> {penalty}
+{tie} + d -> {diet, edit, tide} + r -> {tired} + o -> {editor}
+{eat, tea} + b -> {beat} + s -> {beast} + l -> {stable}
+{air} + n -> {rain} + g -> {grain} + c -> {racing} + o -> {organic}
+{tie} + c -> {cite} + w -> {twice}
+{ear, era} + t -> {rate, tear} + t -> {treat} + m -> {matter}
+{per} + a -> {rape} + s -> {spare} + d -> {spread}
+{set} + w -> {west} + a -> {waste}
+{lad} + y -> {lady} + e -> {delay} + d -> {deadly}
+{end} + l -> {lend} + b -> {blend} + o -> {blonde}
+{she} + o -> {shoe} + r -> {horse, shore} + w -> {shower}
+{art, rat} + s -> {star} + e -> {stare} + r -> {arrest}
+{air} + l -> {rail} + t -> {trail, trial} + u -> {ritual} + v -> {virtual}
+{ear, era} + n -> {earn, near} + g -> {anger, range} + o -> {orange}
+{sea} + l -> {sale, seal} + t -> {least, steal} + t -> {latest}
+{ear, era} + d -> {dare, dear, read} + t -> {trade} + p -> {depart}
+{she} + r -> {hers} + o -> {horse, shore} + w -> {shower}
+{ray} + m -> {army} + r -> {marry}
+{red} + i -> {ride} + v -> {drive} + e -> {derive} + p -> {deprive}
+{ear, era} + d -> {dare, dear, read} + y -> {ready}
+{age} + r -> {gear, rage} + n -> {anger, range} + o -> {orange}
+{opt, pot, top} + r -> {port} + o -> {troop}
+{row} + d -> {word} + c -> {crowd}
+{and} + s -> {sand} + t -> {stand} + r -> {strand}
+{sea} + b -> {base} + t -> {beast} + l -> {stable}
+{art, rat} + e -> {rate, tear} + d -> {trade} + h -> {hatred, thread}
+{art, rat} + e -> {rate, tear} + g -> {great} + h -> {gather}
+{rid} + e -> {ride} + v -> {drive} + e -> {derive} + l -> {deliver} + y -> {delivery}
+{hat} + c -> {chat} + w -> {watch}
+{bet} + a -> {beat} + s -> {beast} + l -> {stable}
+{eat, tea} + l -> {late, tale} + s -> {least, steal} + t -> {latest}
+{sea} + t -> {east, seat} + k -> {stake} + b -> {basket}
+{sea} + m -> {same} + n -> {means}
+{cap} + e -> {pace} + h -> {cheap} + r -> {preach} + t -> {chapter}
+{lip} + l -> {pill} + s -> {spill}
+{rip} + t -> {trip} + s -> {strip} + e -> {priest} + s -> {persist}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + c -> {article} + v -> {vertical}
+{red} + a -> {dare, dear, read} + m -> {armed, dream} + i -> {admire} + r -> {married}
+{sea} + b -> {base} + t -> {beast} + n -> {absent}
+{dig} + r -> {grid} + n -> {grind} + u -> {during}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + v -> {travel}
+{see} + d -> {seed} + p -> {speed}
+{for} + m -> {form, from} + u -> {forum}
+{set} + a -> {east, seat} + g -> {stage}
+{cue} + r -> {cure} + d -> {crude} + v -> {curved}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + t -> {latter}
+{yet} + r -> {tyre} + n -> {entry}
+{our} + y -> {your} + s -> {yours}
+{ash} + c -> {cash} + l -> {clash}
+{aid} + s -> {aids} + e -> {aside} + v -> {advise}
+{ice} + t -> {cite} + h -> {ethic} + n -> {ethnic} + k -> {kitchen}
+{ear, era} + a -> {area} + n -> {arena}
+{ear, era} + c -> {acre, care, race} + s -> {scare} + h -> {search}
+{sir} + t -> {stir} + k -> {skirt} + e -> {strike}
+{age} + t -> {gate} + n -> {agent}
+{set} + m -> {stem} + r -> {terms} + a -> {master, stream}
+{ear, era} + d -> {dare, dear, read} + g -> {grade} + r -> {regard}
+{eat, tea} + s -> {east, seat} + r -> {stare} + r -> {arrest}
+{wit} + a -> {wait} + a -> {await}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + c -> {article} + v -> {vertical}
+{per} + y -> {prey} + l -> {reply} + u -> {purely}
+{ear, era} + n -> {earn, near} + g -> {anger, range} + i -> {regain} + h -> {hearing}
+{set} + r -> {rest} + m -> {terms} + a -> {master, stream}
+{bat} + o -> {boat} + s -> {boast}
+{ski} + r -> {risk} + t -> {skirt} + e -> {strike}
+{set} + r -> {rest} + o -> {store} + c -> {sector}
+{eat, tea} + s -> {east, seat} + b -> {beast} + l -> {stable}
+{ice} + r -> {rice} + p -> {price} + e -> {recipe} + s -> {precise}
+{net, ten} + r -> {rent} + e -> {enter} + u -> {tenure} + v -> {venture}
+{bat} + s -> {stab} + e -> {beast} + l -> {stable}
+{lay} + d -> {lady} + b -> {badly}
+{sea} + l -> {sale, seal} + t -> {least, steal} + c -> {castle}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + i -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{set} + a -> {east, seat} + t -> {state, taste} + l -> {latest}
+{rod} + w -> {word} + l -> {world}
+{ear, era} + f -> {fare, fear} + t -> {after} + h -> {father} + e -> {feather}
+{sea} + t -> {east, seat} + g -> {stage}
+{die} + r -> {ride} + t -> {tired} + c -> {credit, direct} + v -> {verdict}
+{die} + s -> {side} + l -> {slide}
+{eat, tea} + l -> {late, tale} + b -> {table} + l -> {ballet}
+{she} + r -> {hers} + a -> {share} + c -> {search}
+{ear, era} + t -> {rate, tear} + t -> {treat} + l -> {latter}
+{nod} + p -> {pond} + u -> {pound}
+{set} + i -> {site} + u -> {suite} + s -> {tissue}
+{sea} + c -> {case} + r -> {scare} + d -> {sacred, scared}
+{nut} + e -> {tune} + i -> {unite} + d -> {united}
+{the} + a -> {hate, heat} + r -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{lap} + e -> {leap, pale, plea} + c -> {place} + a -> {palace} + b -> {capable}
+{eat, tea} + r -> {rate, tear} + c -> {cater, react, trace} + e -> {create} + h -> {teacher}
+{lap} + e -> {leap, pale, plea} + n -> {panel, plane} + t -> {planet} + y -> {penalty}
+{map} + s -> {spam} + t -> {stamp}
+{due} + r -> {rude} + n -> {under} + b -> {burden}
+{eat, tea} + s -> {east, seat} + r -> {stare} + s -> {assert} + c -> {actress}
+{air} + d -> {raid} + n -> {drain}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + g -> {gather}
+{lad} + y -> {lady} + s -> {sadly}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + r -> {rather} + c -> {charter}
+{per} + o -> {rope} + w -> {power} + d -> {powder}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + i -> {retail} + r -> {trailer} + y -> {literary}
+{ear, era} + c -> {acre, care, race} + h -> {reach} + s -> {search}
+{aid} + e -> {aide, idea} + s -> {aside} + v -> {advise}
+{day} + l -> {lady} + b -> {badly}
+{lip} + s -> {slip} + t -> {split}
+{fur} + o -> {four} + m -> {forum}
+{set} + b -> {best} + a -> {beast} + k -> {basket}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + u -> {neutral}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + t -> {latter}
+{out} + r -> {tour} + e -> {outer, route}
+{out} + r -> {tour} + c -> {court}
+{lay} + l -> {ally} + r -> {rally} + e -> {really} + g -> {gallery, largely}
+{sea} + t -> {east, seat} + r -> {stare} + b -> {breast}
+{its, sit} + e -> {site} + p -> {spite} + r -> {priest} + s -> {persist}
+{nor} + h -> {horn} + o -> {honor}
+{aid} + r -> {raid} + o -> {radio}
+{tin} + h -> {hint, thin} + k -> {think}
+{fat} + e -> {fate, feat} + r -> {after} + h -> {father} + e -> {feather}
+{the} + a -> {hate, heat} + c -> {cheat, teach}
+{lad} + e -> {deal, lead} + i -> {ideal} + t -> {detail}
+{ray} + d -> {yard} + i -> {dairy, diary} + f -> {friday}
+{hit} + n -> {hint, thin} + k -> {think}
+{pin} + a -> {pain} + o -> {piano}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + c -> {central}
+{hat} + n -> {than} + u -> {haunt}
+{set} + b -> {best} + a -> {beast} + l -> {stable}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + y -> {reality} + r -> {literary}
+{tie} + s -> {site} + p -> {spite} + r -> {priest} + s -> {persist}
+{die} + r -> {ride} + t -> {tired} + o -> {editor}
+{bet} + s -> {best} + a -> {beast} + r -> {breast}
+{act, cat} + h -> {chat} + m -> {match}
+{set} + a -> {east, seat} + m -> {steam} + r -> {master, stream}
+{she} + o -> {shoe} + u -> {house}
+{far} + e -> {fare, fear} + m -> {frame} + r -> {farmer} + i -> {firearm}
+{its, sit} + e -> {site} + u -> {suite} + s -> {tissue}
+{air} + h -> {hair} + c -> {chair}
+{let} + b -> {belt} + a -> {table} + t -> {battle, tablet}
+{lie} + v -> {evil, live} + a -> {alive} + b -> {viable}
+{ear, era} + d -> {dare, dear, read} + m -> {armed, dream} + i -> {admire} + r -> {married}
+{sea} + t -> {east, seat} + t -> {state, taste} + u -> {statue}
+{ear, era} + t -> {rate, tear} + d -> {trade} + h -> {hatred, thread}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + y -> {reality} + r -> {literary}
+{old} + b -> {bold} + o -> {blood}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + e -> {eternal} + x -> {external}
+{die} + r -> {ride} + b -> {bride} + s -> {debris}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + e -> {relate} + h -> {leather}
+{pet} + a -> {tape} + l -> {plate} + n -> {planet} + y -> {penalty}
+{eat, tea} + s -> {east, seat} + t -> {state, taste} + l -> {latest}
+{ice} + n -> {nice} + s -> {since} + t -> {insect} + p -> {inspect}
+{red} + i -> {ride} + p -> {pride} + o -> {period} + v -> {provide}
+{the} + a -> {hate, heat} + r -> {earth, heart} + r -> {rather} + c -> {charter}
+{ski} + l -> {silk} + l -> {skill}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + n -> {eternal} + v -> {relevant}
+{all} + y -> {ally} + r -> {rally} + e -> {really} + c -> {clearly}
+{bat} + e -> {beat} + l -> {table} + i -> {albeit}
+{net, ten} + r -> {rent} + y -> {entry}
+{one} + t -> {note, tone} + n -> {tonne}
+{rid} + b -> {bird} + e -> {bride} + s -> {debris}
+{rid} + e -> {ride} + b -> {bride} + g -> {bridge}
+{eat, tea} + r -> {rate, tear} + g -> {great} + t -> {target}
+{bee} + r -> {beer} + d -> {breed}
+{our} + h -> {hour} + m -> {humor}
+{lad} + e -> {deal, lead} + i -> {ideal} + n -> {denial} + g -> {leading}
+{act, cat} + h -> {chat} + r -> {chart}
+{set} + r -> {rest} + e -> {steer} + c -> {secret} + p -> {respect}
+{hat} + b -> {bath} + i -> {habit}
+{say} + t -> {stay} + n -> {nasty}
+{art, rat} + e -> {rate, tear} + t -> {treat} + m -> {matter}
+{art, rat} + s -> {star} + k -> {stark}
+{toe} + n -> {note, tone} + s -> {stone} + h -> {honest} + y -> {honesty}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + n -> {eternal} + v -> {relevant}
+{all} + c -> {call} + o -> {local}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + d -> {hatred, thread}
+{ear, era} + l -> {real} + y -> {early, layer} + w -> {lawyer}
+{nut} + i -> {unit} + e -> {unite} + m -> {minute}
+{bat} + e -> {beat} + l -> {table} + t -> {battle, tablet}
+{ear, era} + n -> {earn, near} + l -> {learn} + t -> {rental} + c -> {central}
+{tag} + e -> {gate} + s -> {stage}
+{ear, era} + n -> {earn, near} + l -> {learn} + i -> {linear} + i -> {airline}
+{bus} + h -> {bush} + r -> {brush}
+{die} + t -> {diet, edit, tide} + r -> {tired} + c -> {credit, direct} + v -> {verdict}
+{net, ten} + u -> {tune} + i -> {unite} + m -> {minute}
+{net, ten} + r -> {rent} + e -> {enter} + i -> {entire} + h -> {neither} + n -> {inherent}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + t -> {latter}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{sir} + t -> {stir} + a -> {stair} + c -> {racist}
+{air} + n -> {rain} + t -> {train} + e -> {retain} + c -> {certain} + o -> {creation, reaction} + n -> {container}
+{eat, tea} + l -> {late, tale} + s -> {least, steal} + c -> {castle}
+{old} + c -> {cold} + u -> {cloud, could}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + n -> {rental} + c -> {central}
+{car} + e -> {acre, care, race} + t -> {cater, react, trace} + p -> {carpet} + u -> {capture}
+{die} + s -> {side} + a -> {aside} + v -> {advise}
+{cue} + r -> {cure} + d -> {crude} + e -> {reduce}
+{set} + b -> {best} + a -> {beast} + r -> {breast}
+{rid} + e -> {ride} + v -> {drive} + r -> {driver}
+{act, cat} + o -> {coat} + s -> {coast}
+{set} + a -> {east, seat} + b -> {beast} + n -> {absent}
+{day} + l -> {lady} + i -> {daily}
+{sir} + t -> {stir} + a -> {stair} + n -> {strain} + t -> {transit} + m -> {transmit}
+{air} + n -> {rain} + t -> {train} + e -> {retain} + c -> {certain} + t -> {interact} + y -> {certainty}
+{ear, era} + d -> {dare, dear, read} + g -> {grade} + n -> {danger, garden} + i -> {reading}
+{nod} + b -> {bond} + u -> {bound}
+{sue, use} + r -> {sure, user} + n -> {nurse} + e -> {ensure}
+{let} + b -> {belt} + a -> {table} + s -> {stable}
+{eat, tea} + f -> {fate, feat} + r -> {after} + h -> {father} + e -> {feather}
+{sea} + b -> {base} + u -> {abuse}
+{red} + a -> {dare, dear, read} + b -> {bread}
+{its, sit} + h -> {this} + g -> {sight} + l -> {slight}
+{eat, tea} + l -> {late, tale} + s -> {least, steal} + b -> {stable}
+{tie} + b -> {bite} + r -> {tribe} + t -> {bitter} + u -> {tribute}
+{air} + l -> {rail} + t -> {trail, trial} + e -> {retail} + c -> {article} + v -> {vertical}
+{ice} + n -> {nice} + s -> {since} + t -> {insect} + o -> {section}
+{she} + r -> {hers} + f -> {fresh}
+{one} + p -> {open} + h -> {phone}
+{sea} + l -> {sale, seal} + t -> {least, steal} + b -> {stable}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + f -> {father} + e -> {feather}
+{die} + v -> {dive} + r -> {drive} + e -> {derive} + p -> {deprive}
+{ear, era} + a -> {area} + w -> {aware}
+{sea} + t -> {east, seat} + b -> {beast} + k -> {basket}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + e -> {relate} + n -> {eternal} + x -> {external}
+{ear, era} + t -> {rate, tear} + s -> {stare} + r -> {arrest}
+{our} + h -> {hour} + g -> {rough}
+{art, rat} + s -> {star} + i -> {stair} + c -> {racist}
+{bet} + l -> {belt} + a -> {table} + s -> {stable}
+{ear, era} + t -> {rate, tear} + t -> {treat} + o -> {rotate}
+{ear, era} + c -> {acre, care, race} + m -> {cream} + a -> {camera}
+{ear, era} + g -> {gear, rage} + n -> {anger, range} + o -> {orange}
+{not, ton} + e -> {note, tone} + s -> {stone} + h -> {honest} + y -> {honesty}
+{pan} + i -> {pain} + l -> {plain}
+{car} + e -> {acre, care, race} + l -> {clear} + l -> {recall} + y -> {clearly}
+{art, rat} + p -> {part, trap} + a -> {apart}
+{her} + a -> {hear} + t -> {earth, heart} + f -> {father} + e -> {feather}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + n -> {eternal} + x -> {external}
+{one} + s -> {nose} + i -> {noise} + r -> {senior} + v -> {version} + i -> {revision}
+{die} + v -> {dive} + r -> {drive} + e -> {derive} + l -> {deliver} + y -> {delivery}
+{eat, tea} + s -> {east, seat} + l -> {least, steal} + b -> {stable}
+{act, cat} + h -> {chat} + p -> {patch}
+{end} + s -> {send} + p -> {spend}
+{ear, era} + t -> {rate, tear} + s -> {stare} + v -> {starve} + n -> {servant}
+{toe} + n -> {note, tone} + f -> {often}
+{ear, era} + y -> {year} + l -> {early, layer} + n -> {nearly}
+{man} + e -> {mean, name} + d -> {amend} + d -> {demand}
+{out} + a -> {auto} + b -> {about}
+{the} + a -> {hate, heat} + r -> {earth, heart} + g -> {gather}
+{sue, use} + r -> {sure, user} + g -> {surge}
+{ear, era} + b -> {bare, bear} + d -> {bread}
+{sin} + p -> {spin} + e -> {spine}
+{sue, use} + r -> {sure, user} + p -> {super} + b -> {superb}
+{eat, tea} + s -> {east, seat} + b -> {beast} + r -> {breast}
+{set} + r -> {rest} + e -> {steer} + d -> {desert}
+{rub} + y -> {bury} + g -> {rugby}
+{rid} + t -> {dirt} + f -> {drift}
+{red} + u -> {rude} + n -> {under} + b -> {burden}
+{sea} + t -> {east, seat} + l -> {least, steal} + b -> {stable}
+{ear, era} + t -> {rate, tear} + t -> {treat} + h -> {threat} + e -> {theatre} + n -> {threaten}
+{set} + p -> {step} + u -> {upset}
+{act, cat} + h -> {chat} + c -> {catch}
+{ear, era} + l -> {real} + y -> {early, layer} + p -> {player}
+{tin} + y -> {tiny} + u -> {unity}
+{her} + a -> {hear} + t -> {earth, heart} + t -> {threat} + s -> {shatter}
+{car} + e -> {acre, care, race} + h -> {reach} + p -> {preach} + t -> {chapter}
+{aim} + l -> {mail} + e -> {email}
+{eat, tea} + b -> {beat} + l -> {table} + s -> {stable}
+{day} + l -> {lady} + e -> {delay} + d -> {deadly}
+{art, rat} + s -> {star} + e -> {stare} + s -> {assert} + c -> {actress}
+{lie} + m -> {mile} + s -> {smile} + p -> {simple} + g -> {glimpse}
+{set} + r -> {rest} + a -> {stare} + s -> {assert} + c -> {actress}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + o -> {rotate}
+{too} + r -> {root} + p -> {troop}
+{sir} + e -> {rise} + a -> {arise, raise} + l -> {serial}
+{her} + a -> {hear} + c -> {reach} + b -> {breach} + m -> {chamber}
+{sea} + c -> {case} + p -> {space} + e -> {escape}
+{ask} + e -> {sake} + t -> {stake} + b -> {basket}
+{pin} + s -> {spin} + e -> {spine}
+{bet} + l -> {belt} + a -> {table} + t -> {battle, tablet}
+{lad} + e -> {deal, lead} + p -> {plead}
+{eat, tea} + g -> {gate} + r -> {great} + h -> {gather}
+{all} + m -> {mall} + s -> {small}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + c -> {central}
+{her} + s -> {hers} + a -> {share} + c -> {search}
+{let} + m -> {melt} + a -> {metal} + n -> {mental}
+{end} + b -> {bend} + l -> {blend} + o -> {blonde}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + g -> {gather}
+{ear, era} + n -> {earn, near} + g -> {anger, range} + d -> {danger, garden} + i -> {reading}
+{bet} + a -> {beat} + s -> {beast} + n -> {absent}
+{net, ten} + c -> {cent} + a -> {enact} + s -> {stance}
+{our} + e -> {euro} + t -> {outer, route}
+{age} + r -> {gear, rage} + n -> {anger, range} + i -> {regain} + d -> {reading}
+{nod} + f -> {fond} + u -> {found} + l -> {unfold}
+{ear, era} + h -> {hear} + c -> {reach} + b -> {breach} + m -> {chamber}
+{rod} + w -> {word} + s -> {sword}
+{the} + a -> {hate, heat} + r -> {earth, heart} + d -> {hatred, thread}
+{set} + p -> {step} + e -> {steep}
+{ear, era} + h -> {hear} + c -> {reach} + s -> {search}
+{aim} + d -> {amid} + t -> {admit}
+{eat, tea} + s -> {east, seat} + k -> {stake} + b -> {basket}
+{art, rat} + e -> {rate, tear} + c -> {cater, react, trace} + p -> {carpet} + u -> {capture}
+{ear, era} + c -> {acre, care, race} + t -> {cater, react, trace} + p -> {carpet} + u -> {capture}
+{bid} + r -> {bird} + e -> {bride} + g -> {bridge}
+{bat} + e -> {beat} + s -> {beast} + r -> {breast}
+{per} + e -> {peer} + c -> {creep} + i -> {recipe} + s -> {precise}
+{ear, era} + p -> {rape} + s -> {spare} + h -> {phrase} + p -> {perhaps}
+{ear, era} + l -> {real} + c -> {clear} + l -> {recall} + y -> {clearly}
+{ear, era} + g -> {gear, rage} + n -> {anger, range} + d -> {danger, garden} + i -> {reading}
+{eat, tea} + b -> {beat} + l -> {table} + l -> {ballet}
+{sea} + t -> {east, seat} + b -> {beast} + l -> {stable}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + u -> {neutral}
+{air} + p -> {pair} + d -> {rapid}
+{eat, tea} + g -> {gate} + n -> {agent}
+{now, own} + d -> {down} + r -> {drown} + e -> {wonder}
+{age} + d -> {aged} + b -> {badge}
+{ear, era} + h -> {hear} + t -> {earth, heart} + r -> {rather} + c -> {charter}
+{her} + i -> {hire} + t -> {their} + s -> {theirs}
+{car} + e -> {acre, care, race} + s -> {scare} + m -> {scream}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + n -> {eternal} + x -> {external}
+{art, rat} + e -> {rate, tear} + w -> {water} + i -> {waiter}
+{act, cat} + h -> {chat} + e -> {cheat, teach}
+{tap} + s -> {past} + m -> {stamp}
+{rid} + e -> {ride} + t -> {tired} + o -> {editor}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{aid} + m -> {amid} + e -> {media} + r -> {admire} + r -> {married}
+{art, rat} + e -> {rate, tear} + s -> {stare} + s -> {assert} + c -> {actress}
+{bat} + s -> {stab} + o -> {boast}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + e -> {eternal} + x -> {external}
+{old} + r -> {lord} + w -> {world}
+{lab} + e -> {able} + t -> {table} + l -> {ballet}
+{bet} + a -> {beat} + l -> {table} + s -> {stable}
+{ear, era} + h -> {hear} + s -> {share} + p -> {phrase} + p -> {perhaps}
+{net, ten} + o -> {note, tone} + n -> {tonne}
+{pan} + i -> {pain} + o -> {piano}
+{see} + a -> {ease} + c -> {cease} + p -> {escape}
+{tie} + s -> {site} + x -> {exist}
+{ear, era} + c -> {acre, care, race} + s -> {scare} + d -> {sacred, scared}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + t -> {latter}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + m -> {matter}
+{lad} + y -> {lady} + b -> {badly}
+{tap} + h -> {path} + c -> {patch}
+{tin} + o -> {into} + j -> {joint}
+{red} + u -> {rude} + c -> {crude} + e -> {reduce}
+{ash} + c -> {cash} + e -> {chase} + r -> {search}
+{lab} + e -> {able} + t -> {table} + s -> {stable}
+{our} + p -> {pour} + g -> {group}
+{cut} + e -> {cute} + a -> {acute}
+{bat} + s -> {stab} + e -> {beast} + r -> {breast}
+{tin} + u -> {unit} + p -> {input}
+{net, ten} + o -> {note, tone} + s -> {stone} + h -> {honest} + y -> {honesty}
+{lip} + s -> {slip} + l -> {spill}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + v -> {travel}
+{yet} + p -> {type} + m -> {empty}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{air} + n -> {rain} + d -> {drain}
+{our} + s -> {ours} + y -> {yours}
+{ask} + e -> {sake} + p -> {speak}
+{his} + t -> {this} + g -> {sight} + l -> {slight}
+{ink} + d -> {kind} + r -> {drink}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + n -> {eternal} + v -> {relevant}
+{cap} + e -> {pace} + s -> {space} + e -> {escape}
+{tie} + d -> {diet, edit, tide} + r -> {tired} + c -> {credit, direct} + p -> {predict}
+{ear, era} + y -> {year} + l -> {early, layer} + b -> {barely}
+{ice} + r -> {rice} + p -> {price} + n -> {prince}
+{ray} + e -> {year} + l -> {early, layer} + b -> {barely}
+{his} + f -> {fish} + t -> {shift}
+{tin} + h -> {hint, thin} + g -> {night, thing}
+{air} + n -> {rain} + g -> {grain} + e -> {regain} + d -> {reading}
+{and} + h -> {hand} + y -> {handy}
+{act, cat} + s -> {cast} + o -> {coast}
+{set} + t -> {test} + a -> {state, taste} + l -> {latest}
+{ear, era} + g -> {gear, rage} + l -> {large}
+{car} + e -> {acre, care, race} + m -> {cream} + s -> {scream}
+{ear, era} + t -> {rate, tear} + g -> {great} + t -> {target}
+{tag} + e -> {gate} + r -> {great} + t -> {target}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + h -> {leather}
+{aid} + e -> {aide, idea} + l -> {ideal} + n -> {denial} + g -> {leading}
+{far} + m -> {farm} + e -> {frame} + r -> {farmer} + i -> {firearm}
+{its, sit} + r -> {stir} + a -> {stair} + c -> {racist}
+{lab} + l -> {ball} + e -> {label} + t -> {ballet}
+{eat, tea} + k -> {take} + s -> {stake} + b -> {basket}
+{ray} + e -> {year} + l -> {early, layer} + p -> {player}
+{nut} + i -> {unit} + e -> {unite} + d -> {united}
+{her} + a -> {hear} + t -> {earth, heart} + g -> {gather}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + n -> {rental} + e -> {eternal} + v -> {relevant}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + t -> {latter}
+{eat, tea} + l -> {late, tale} + b -> {table} + i -> {albeit}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + n -> {eternal} + v -> {relevant}
+{ear, era} + g -> {gear, rage} + n -> {anger, range} + i -> {regain} + d -> {reading}
+{ask} + t -> {task} + r -> {stark}
+{age} + r -> {gear, rage} + c -> {grace} + h -> {charge}
+{aim} + l -> {mail} + c -> {claim}
+{ask} + t -> {task} + e -> {stake} + b -> {basket}
+{eat, tea} + b -> {beat} + s -> {beast} + r -> {breast}
+{red} + i -> {ride} + v -> {drive} + a -> {varied}
+{sea} + t -> {east, seat} + b -> {beast} + r -> {breast}
+{red} + a -> {dare, dear, read} + t -> {trade} + p -> {depart}
+{son} + o -> {soon} + p -> {spoon} + i -> {poison}
+{ear, era} + c -> {acre, care, race} + s -> {scare} + m -> {scream}
+{sea} + m -> {same} + h -> {shame}
+{eat, tea} + r -> {rate, tear} + w -> {water} + i -> {waiter}
+{its, sit} + r -> {stir} + p -> {strip} + c -> {script}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + v -> {travel}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + u -> {neutral}
+{pin} + a -> {pain} + c -> {panic}
+{let} + a -> {late, tale} + s -> {least, steal} + c -> {castle}
+{art, rat} + s -> {star} + e -> {stare} + v -> {starve} + n -> {servant}
+{the} + a -> {hate, heat} + r -> {earth, heart} + t -> {threat} + s -> {shatter}
+{air} + l -> {rail} + t -> {trail, trial} + e -> {retail} + y -> {reality} + r -> {literary}
+{sin} + g -> {sign, sing} + w -> {swing}
+{age} + r -> {gear, rage} + t -> {great} + t -> {target}
+{net, ten} + r -> {rent} + d -> {trend} + e -> {tender} + p -> {pretend}
+{run} + b -> {burn} + a -> {urban}
+{lap} + e -> {leap, pale, plea} + d -> {plead}
+{her} + a -> {hear} + s -> {share} + c -> {search}
+{set} + n -> {nest} + e -> {teens}
+{car} + e -> {acre, care, race} + v -> {carve}
+{sea} + t -> {east, seat} + r -> {stare} + v -> {starve} + n -> {servant}
+{art, rat} + e -> {rate, tear} + s -> {stare} + r -> {arrest}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + d -> {related}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + g -> {gather}
+{art, rat} + s -> {star} + e -> {stare} + b -> {breast}
+{duo} + l -> {loud} + w -> {would}
+{sea} + l -> {sale, seal} + c -> {scale} + t -> {castle}
+{bet} + s -> {best} + a -> {beast} + k -> {basket}
+{ear, era} + h -> {hear} + s -> {share} + c -> {search}
+{its, sit} + h -> {this} + f -> {shift}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + c -> {central}
+{ago} + l -> {goal} + n -> {along} + l -> {gallon}
+{eat, tea} + r -> {rate, tear} + s -> {stare} + b -> {breast}
+{ear, era} + l -> {real} + n -> {learn} + t -> {rental} + e -> {eternal} + v -> {relevant}
+{set} + i -> {site} + x -> {exist}
+{ski} + r -> {risk} + y -> {risky}
+{ear, era} + y -> {year} + l -> {early, layer} + l -> {really} + c -> {clearly}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + h -> {leather}
+{sea} + y -> {easy} + s -> {essay}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + c -> {article} + v -> {vertical}
+{let} + b -> {belt} + a -> {table} + l -> {ballet}
+{ray} + e -> {year} + l -> {early, layer} + l -> {really} + c -> {clearly}
+{pit, tip} + r -> {trip} + s -> {strip} + c -> {script}
+{sea} + t -> {east, seat} + r -> {stare} + r -> {arrest}
+{eat, tea} + s -> {east, seat} + b -> {beast} + k -> {basket}
+{get} + a -> {gate} + n -> {agent}
+{ear, era} + t -> {rate, tear} + s -> {stare} + b -> {breast}
+{rid} + e -> {ride} + w -> {weird}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + h -> {leather}
+{rid} + e -> {ride} + p -> {pride} + s -> {spider} + e -> {preside}
+{eat, tea} + s -> {east, seat} + r -> {stare} + v -> {starve} + h -> {harvest}
+{one} + t -> {note, tone} + f -> {often}
+{all} + t -> {tall} + s -> {stall}
+{day} + l -> {lady} + s -> {sadly}
+{bet} + l -> {belt} + a -> {table} + i -> {albeit}
+{bet} + i -> {bite} + r -> {tribe} + t -> {bitter} + u -> {tribute}
+{rid} + e -> {ride} + p -> {pride} + o -> {period} + v -> {provide}
+{ear, era} + g -> {gear, rage} + c -> {grace} + h -> {charge}
+{ear, era} + c -> {acre, care, race} + h -> {reach} + p -> {preach} + t -> {chapter}
+{nut} + i -> {unit} + l -> {until} + s -> {insult}
+{ear, era} + n -> {earn, near} + l -> {learn} + t -> {rental} + u -> {neutral}
+{one} + n -> {none} + t -> {tonne}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + d -> {hatred, thread}
+{ear, era} + c -> {acre, care, race} + t -> {cater, react, trace} + p -> {carpet} + h -> {chapter}
+{dog, god} + o -> {good} + s -> {goods}
+{air} + n -> {rain} + t -> {train} + e -> {retain} + r -> {terrain, trainer}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{ear, era} + l -> {real} + n -> {learn} + t -> {rental} + u -> {neutral}
+{hat} + c -> {chat} + r -> {chart}
+{ice} + t -> {cite} + w -> {twice}
+{lie} + m -> {mile} + a -> {email}
+{its, sit} + r -> {stir} + k -> {skirt} + e -> {strike}
+{lie} + n -> {line} + a -> {alien} + r -> {linear} + i -> {airline}
+{hot} + s -> {host, shot} + r -> {short}
+{art, rat} + s -> {star} + e -> {stare} + m -> {master, stream}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + e -> {eternal} + x -> {external}
+{see} + l -> {else} + t -> {steel} + t -> {settle} + r -> {settler}
+{eat, tea} + s -> {east, seat} + m -> {steam} + r -> {master, stream}
+{eat, tea} + s -> {east, seat} + g -> {stage}
+{kid} + n -> {kind} + r -> {drink}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + c -> {article} + v -> {vertical}
+{bet} + a -> {beat} + s -> {beast} + r -> {breast}
+{ear, era} + t -> {rate, tear} + s -> {stare} + m -> {master, stream}
+{tap} + e -> {tape} + l -> {plate} + n -> {planet} + y -> {penalty}
+{sea} + t -> {east, seat} + t -> {state, taste} + l -> {latest}
+{eat, tea} + s -> {east, seat} + s -> {asset} + r -> {assert} + c -> {actress}
+{out} + a -> {auto} + q -> {quota}
+{red} + a -> {dare, dear, read} + t -> {trade} + h -> {hatred, thread}
+{nod} + w -> {down} + r -> {drown} + e -> {wonder}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + t -> {latter}
+{die} + w -> {wide} + r -> {weird}
+{die} + r -> {ride} + t -> {tired} + v -> {divert} + c -> {verdict}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + h -> {leather}
+{sir} + k -> {risk} + t -> {skirt} + e -> {strike}
+{age} + r -> {gear, rage} + t -> {great} + h -> {gather}
+{let} + a -> {late, tale} + s -> {least, steal} + b -> {stable}
+{log} + n -> {long} + a -> {along} + l -> {gallon}
+{ear, era} + t -> {rate, tear} + s -> {stare} + v -> {starve} + h -> {harvest}
+{its, sit} + l -> {list} + l -> {still}
+{lie} + f -> {file, life} + r -> {rifle} + t -> {filter}
+{bet} + a -> {beat} + s -> {beast} + k -> {basket}
+{all} + y -> {ally} + r -> {rally} + e -> {really} + g -> {gallery, largely}
+{die} + a -> {aide, idea} + m -> {media} + r -> {admire} + r -> {married}
+{eat, tea} + h -> {hate, heat} + c -> {cheat, teach}
+{ear, era} + y -> {year} + l -> {early, layer} + r -> {rarely}
+{art, rat} + e -> {rate, tear} + h -> {earth, heart} + b -> {breath} + e -> {breathe}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + u -> {neutral}
+{cap} + e -> {pace} + e -> {peace} + s -> {escape}
+{art, rat} + p -> {part, trap} + y -> {party} + l -> {partly}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + b -> {breath} + e -> {breathe}
+{opt, pot, top} + r -> {port} + s -> {sport} + a -> {pastor}
+{die} + t -> {diet, edit, tide} + r -> {tired} + o -> {editor}
+{rip} + t -> {trip} + n -> {print}
+{ear, era} + g -> {gear, rage} + t -> {great} + t -> {target}
+{ear, era} + c -> {acre, care, race} + v -> {carve}
+{lab} + e -> {able} + m -> {blame}
+{fee} + r -> {free} + r -> {refer} + p -> {prefer}
+{far} + e -> {fare, fear} + t -> {after} + h -> {father} + e -> {feather}
+{sea} + e -> {ease} + c -> {cease} + p -> {escape}
+{ear, era} + f -> {fare, fear} + m -> {frame} + r -> {farmer} + i -> {firearm}
+{set} + a -> {east, seat} + l -> {least, steal} + t -> {latest}
+{hat} + c -> {chat} + c -> {catch}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + y -> {reality} + c -> {literacy} + n -> {certainly}
+{one} + t -> {note, tone} + s -> {stone} + h -> {honest} + y -> {honesty}
+{red} + i -> {ride} + p -> {pride} + s -> {spider} + e -> {preside}
+{our} + f -> {four} + l -> {flour}
+{her} + a -> {hear} + t -> {earth, heart} + r -> {rather} + c -> {charter}
+{bar} + e -> {bare, bear} + d -> {bread}
+{sea} + k -> {sake} + n -> {snake}
+{bit} + e -> {bite} + r -> {tribe} + t -> {bitter} + u -> {tribute}
+{day} + r -> {yard} + e -> {ready}
+{rip} + a -> {pair} + l -> {april}
+{hat} + e -> {hate, heat} + w -> {wheat} + l -> {wealth} + y -> {wealthy}
+{ear, era} + l -> {real} + n -> {learn} + y -> {nearly}
+{bed} + n -> {bend} + l -> {blend} + o -> {blonde}
+{eat, tea} + b -> {beat} + s -> {beast} + n -> {absent}
+{sea} + b -> {base} + t -> {beast} + k -> {basket}
+{air} + n -> {rain} + t -> {train} + g -> {rating} + d -> {trading}
+{ray} + d -> {yard} + e -> {ready}
+{ear, era} + t -> {rate, tear} + d -> {trade} + p -> {depart}
+{air} + n -> {rain} + b -> {brain}
+{get} + a -> {gate} + s -> {stage}
+{die} + v -> {dive} + r -> {drive} + r -> {driver}
+{lie} + n -> {line} + a -> {alien} + d -> {denial} + g -> {leading}
+{win} + g -> {wing} + s -> {swing}
+{ear, era} + y -> {year} + l -> {early, layer} + p -> {player}
+{fun} + d -> {fund} + o -> {found} + l -> {unfold}
+{let} + a -> {late, tale} + b -> {table} + i -> {albeit}
+{ear, era} + l -> {real} + m -> {realm}
+{bet} + l -> {belt} + a -> {table} + l -> {ballet}
+{ear, era} + l -> {real} + y -> {early, layer} + l -> {really} + g -> {gallery, largely}
+{tap} + r -> {part, trap} + y -> {party} + l -> {partly}
+{bar} + e -> {bare, bear} + k -> {break} + m -> {embark}
+{cue} + l -> {clue} + n -> {uncle}
+{one} + b -> {bone} + l -> {noble} + g -> {belong}
+{rod} + a -> {road} + b -> {board, broad} + a -> {abroad}
+{tap} + r -> {part, trap} + a -> {apart}
+{set} + p -> {step} + i -> {spite} + r -> {priest} + s -> {persist}
+{ear, era} + d -> {dare, dear, read} + t -> {trade} + h -> {hatred, thread}
+{tin} + u -> {unit} + l -> {until} + s -> {insult}
+{arm} + h -> {harm} + c -> {charm, march}
+{end} + s -> {send} + e -> {dense}
+{let} + f -> {left} + e -> {fleet}
+{pay} + r -> {pray} + t -> {party} + l -> {partly}
+{red} + i -> {ride} + v -> {drive} + e -> {derive} + l -> {deliver} + y -> {delivery}
+{see} + l -> {else} + t -> {steel} + c -> {select}
+{bat} + s -> {stab} + e -> {beast} + k -> {basket}
+{ear, era} + h -> {hear} + t -> {earth, heart} + f -> {father} + e -> {feather}
+{sir} + t -> {stir} + a -> {stair} + t -> {artist} + n -> {transit} + m -> {transmit}
+{act, cat} + h -> {chat} + w -> {watch}
+{eat, tea} + n -> {neat} + g -> {agent}
+{let} + b -> {belt} + a -> {table} + i -> {albeit}
+{the} + m -> {them} + e -> {theme} + l -> {helmet}
+{its, sit} + r -> {stir} + p -> {strip} + e -> {priest} + s -> {persist}
+{fat} + s -> {fast} + f -> {staff}
+{sir} + t -> {stir} + p -> {strip} + i -> {spirit}
+{air} + n -> {rain} + g -> {grain} + m -> {margin} + f -> {farming}
+{die} + v -> {dive} + r -> {drive} + e -> {derive} + s -> {diverse}
+{rid} + g -> {grid} + n -> {grind} + u -> {during}
+{set} + a -> {east, seat} + r -> {stare} + b -> {breast}
+{red} + a -> {dare, dear, read} + g -> {grade} + r -> {regard}
+{set} + a -> {east, seat} + r -> {stare} + v -> {starve} + h -> {harvest}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + r -> {trailer} + y -> {literary}
+{law} + l -> {wall} + o -> {allow}
+{ear, era} + c -> {acre, care, race} + t -> {cater, react, trace} + e -> {create} + h -> {teacher}
+{its, sit} + r -> {stir} + a -> {stair} + n -> {strain} + t -> {transit} + m -> {transmit}
+{per} + o -> {rope} + b -> {probe}
+{son} + e -> {nose} + i -> {noise} + r -> {senior} + v -> {version} + t -> {investor}
+{fat} + c -> {fact} + r -> {craft} + o -> {factor} + y -> {factory}
+{act, cat} + o -> {coat} + r -> {actor} + r -> {carrot} + e -> {creator}
+{not, ton} + i -> {into} + j -> {joint}
+{lab} + e -> {able} + l -> {label} + i -> {liable} + r -> {liberal} + e -> {reliable}
+{age} + r -> {gear, rage} + d -> {grade} + n -> {danger, garden} + i -> {reading}
+{tie} + d -> {diet, edit, tide} + r -> {tired} + c -> {credit, direct} + v -> {verdict}
+{ear, era} + p -> {rape} + o -> {opera}
+{rid} + e -> {ride} + v -> {drive} + a -> {varied}
+{art, rat} + e -> {rate, tear} + d -> {trade} + p -> {depart}
+{eat, tea} + r -> {rate, tear} + c -> {cater, react, trace} + p -> {carpet} + u -> {capture}
+{ear, era} + t -> {rate, tear} + t -> {treat} + h -> {threat} + s -> {shatter}
+{red} + i -> {ride} + b -> {bride} + g -> {bridge}
+{set} + a -> {east, seat} + k -> {stake} + b -> {basket}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + e -> {eternal} + v -> {relevant}
+{pen} + o -> {open} + h -> {phone}
+{ear, era} + h -> {hear} + t -> {earth, heart} + t -> {threat} + s -> {shatter}
+{per} + u -> {pure} + t -> {erupt}
+{nor} + h -> {horn} + t -> {north}
+{per} + a -> {rape} + s -> {spare} + h -> {phrase} + p -> {perhaps}
+{ear, era} + y -> {year} + l -> {early, layer} + w -> {lawyer}
+{bed} + t -> {debt} + u -> {debut} + g -> {budget}
+{too} + b -> {boot} + s -> {boost}
+{car} + e -> {acre, care, race} + s -> {scare} + h -> {search}
+{she} + d -> {shed} + a -> {shade} + p -> {shaped}
+{her} + i -> {hire} + t -> {their} + e -> {either} + n -> {neither} + n -> {inherent}
+{lay} + d -> {lady} + i -> {daily}
+{lie} + f -> {file, life} + r -> {rifle} + e -> {relief}
+{ask} + e -> {sake} + h -> {shake}
+{ban} + d -> {band} + r -> {brand}
+{ear, era} + l -> {real} + s -> {laser} + i -> {serial}
+{car} + e -> {acre, care, race} + g -> {grace} + h -> {charge}
+{bet} + a -> {beat} + l -> {table} + i -> {albeit}
+{set} + a -> {east, seat} + s -> {asset} + r -> {assert} + c -> {actress}
+{sea} + t -> {east, seat} + l -> {least, steal} + c -> {castle}
+{ear, era} + l -> {real} + n -> {learn} + t -> {rental} + e -> {eternal} + x -> {external}
+{sea} + b -> {base} + t -> {beast} + r -> {breast}
+{she} + r -> {hers} + a -> {share} + p -> {phrase} + p -> {perhaps}
+{tin} + o -> {into} + p -> {point} + o -> {option} + r -> {portion}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + h -> {leather}
+{die} + r -> {ride} + v -> {drive} + t -> {divert} + c -> {verdict}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + n -> {eternal} + v -> {relevant}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + d -> {related}
+{rip} + t -> {trip} + s -> {strip} + i -> {spirit}
+{dam, mad} + i -> {amid} + e -> {media} + r -> {admire} + r -> {married}
+{air} + l -> {rail} + t -> {trail, trial} + e -> {retail} + r -> {trailer} + y -> {literary}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + r -> {rather} + c -> {charter}
+{eat, tea} + b -> {beat} + s -> {beast} + k -> {basket}
+{cue} + r -> {cure} + l -> {cruel}
+{tap} + s -> {past} + n -> {pants}
+{for} + u -> {four} + l -> {flour}
+{dry} + a -> {yard} + e -> {ready}
+{ray} + e -> {year} + d -> {ready}
+{eat, tea} + r -> {rate, tear} + d -> {trade} + p -> {depart}
+{sea} + l -> {sale, seal} + f -> {false}
+{air} + n -> {rain} + g -> {grain} + e -> {regain} + h -> {hearing}
+{pin} + a -> {pain} + l -> {plain}
+{sue, use} + r -> {sure, user} + p -> {super} + u -> {pursue}
+{eat, tea} + b -> {beat} + l -> {table} + i -> {albeit}
+{pet} + s -> {step} + u -> {upset}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + y -> {reality} + r -> {literary}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + f -> {father} + e -> {feather}
+{ear, era} + t -> {rate, tear} + g -> {great} + h -> {gather}
+{die} + r -> {ride} + t -> {tired} + c -> {credit, direct} + p -> {predict}
+{the} + a -> {hate, heat} + w -> {wheat} + l -> {wealth} + y -> {wealthy}
+{sea} + m -> {same} + t -> {steam} + r -> {master, stream}
+{sea} + c -> {case} + l -> {scale} + u -> {clause} + r -> {secular}
+{fit} + g -> {gift} + h -> {fight} + l -> {flight}
+{eat, tea} + r -> {rate, tear} + f -> {after} + h -> {father} + e -> {feather}
+{fat} + l -> {flat} + o -> {float}
+{bat} + h -> {bath} + i -> {habit}
+{eat, tea} + s -> {east, seat} + r -> {stare} + v -> {starve} + n -> {servant}
+{the} + a -> {hate, heat} + d -> {death} + r -> {hatred, thread}
+{rob} + n -> {born} + w -> {brown}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{rid} + t -> {dirt} + e -> {tired} + c -> {credit, direct} + v -> {verdict}
+{car} + e -> {acre, care, race} + h -> {reach} + s -> {search}
+{her} + e -> {here} + s -> {sheer} + p -> {sphere}
+{dry} + a -> {yard} + i -> {dairy, diary} + f -> {friday}
+{fat} + l -> {flat} + u -> {fault}
+{die} + t -> {diet, edit, tide} + r -> {tired} + c -> {credit, direct} + p -> {predict}
+{flu} + l -> {full} + y -> {fully}
+{its, sit} + e -> {site} + x -> {exist}
+{sea} + l -> {sale, seal} + c -> {scale} + u -> {clause} + r -> {secular}
+{bet} + u -> {tube} + d -> {debut} + g -> {budget}
+{lap} + y -> {play} + p -> {apply}
+{the} + a -> {hate, heat} + r -> {earth, heart} + b -> {breath} + e -> {breathe}
+{hat} + c -> {chat} + e -> {cheat, teach}
+{age} + r -> {gear, rage} + n -> {anger, range} + d -> {danger, garden} + i -> {reading}
+{art, rat} + e -> {rate, tear} + t -> {treat} + y -> {treaty} + b -> {battery}
+{ear, era} + n -> {earn, near} + a -> {arena}
+{our} + t -> {tour} + c -> {court}
+{die} + r -> {ride} + w -> {weird}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + v -> {travel}
+{eat, tea} + l -> {late, tale} + m -> {metal} + n -> {mental}
+{tin} + u -> {unit} + e -> {unite} + m -> {minute}
+{too} + r -> {root} + b -> {robot}
+{car} + e -> {acre, care, race} + m -> {cream} + a -> {camera}
+{sea} + t -> {east, seat} + l -> {least, steal} + t -> {latest}
+{set} + r -> {rest} + e -> {steer} + t -> {street} + u -> {trustee}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + c -> {article} + v -> {vertical}
+{eat, tea} + s -> {east, seat} + l -> {least, steal} + c -> {castle}
+{ear, era} + y -> {year} + d -> {ready}
+{hat} + c -> {chat} + p -> {patch}
+{sir} + k -> {risk} + y -> {risky}
+{bat} + s -> {stab} + l -> {blast} + e -> {stable}
+{sea} + t -> {east, seat} + r -> {stare} + s -> {assert} + c -> {actress}
+{our} + p -> {pour} + d -> {proud}
+{arm} + s -> {arms} + t -> {smart} + e -> {master, stream}
+{die} + r -> {ride} + p -> {pride} + s -> {spider} + e -> {preside}
+{oil} + s -> {soil} + p -> {spoil}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + i -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{lad} + e -> {deal, lead} + b -> {blade}
+{die} + v -> {dive} + l -> {devil}
+{eat, tea} + n -> {neat} + c -> {enact} + s -> {stance}
+{sea} + f -> {safe} + l -> {false}
+{ill} + t -> {till} + s -> {still}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + e -> {eternal} + x -> {external}
+{per} + a -> {rape} + s -> {spare} + i -> {aspire, praise}
+{net, ten} + r -> {rent} + e -> {enter} + i -> {entire} + h -> {neither} + t -> {thirteen}
+{its, sit} + l -> {list} + p -> {split}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{wit} + h -> {with} + e -> {white} + g -> {weight}
+{lay} + l -> {ally} + o -> {loyal}
+{die} + a -> {aide, idea} + s -> {aside} + v -> {advise}
+{rod} + l -> {lord} + w -> {world}
+{new} + i -> {wine} + d -> {widen}
+{set} + r -> {rest} + e -> {steer} + t -> {street} + l -> {settler}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + r -> {rather} + c -> {charter}
+{rub} + n -> {burn} + a -> {urban}
+{pan} + s -> {snap, span} + t -> {pants}
+{rid} + e -> {ride} + v -> {drive} + t -> {divert} + c -> {verdict}
+{lad} + u -> {dual} + t -> {adult}
+{tie} + x -> {exit} + s -> {exist}
+{lap} + n -> {plan} + i -> {plain}
+{age} + t -> {gate} + s -> {stage}
+{aid} + r -> {raid} + p -> {rapid}
+{not, ton} + e -> {note, tone} + n -> {tonne}
+{art, rat} + e -> {rate, tear} + t -> {treat} + g -> {target}
+{eat, tea} + s -> {east, seat} + l -> {least, steal} + t -> {latest}
+{ear, era} + w -> {wear} + t -> {water} + i -> {waiter}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + n -> {eternal} + x -> {external}
+{ear, era} + y -> {year} + l -> {early, layer} + l -> {really} + g -> {gallery, largely}
+{set} + r -> {rest} + a -> {stare} + m -> {master, stream}
+{tie} + d -> {diet, edit, tide} + r -> {tired} + v -> {divert} + c -> {verdict}
+{set} + w -> {west} + e -> {sweet}
+{ear, era} + n -> {earn, near} + l -> {learn} + t -> {rental} + e -> {eternal} + x -> {external}
+{ice} + r -> {rice} + m -> {crime}
+{rod} + w -> {word} + n -> {drown} + e -> {wonder}
+{aid} + e -> {aide, idea} + l -> {ideal} + f -> {failed}
+{log} + b -> {blog} + e -> {globe} + n -> {belong}
+{ear, era} + c -> {acre, care, race} + h -> {reach} + g -> {charge}
+{ear, era} + t -> {rate, tear} + x -> {extra}
+{ear, era} + t -> {rate, tear} + f -> {after} + h -> {father} + e -> {feather}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + r -> {trailer} + y -> {literary}
+{ear, era} + p -> {rape} + p -> {paper} + a -> {appear}
+{ray} + p -> {pray} + t -> {party} + l -> {partly}
+{eat, tea} + m -> {mate, meat, team} + l -> {metal} + n -> {mental}
+{now, own} + d -> {down} + u -> {wound}
+{net, ten} + o -> {note, tone} + f -> {often}
+{set} + r -> {rest} + a -> {stare} + r -> {arrest}
+{sir} + t -> {stir} + p -> {strip} + e -> {priest} + s -> {persist}
+{its, sit} + r -> {stir} + p -> {strip} + i -> {spirit}
+{raw, war} + e -> {wear} + a -> {aware}
+{ear, era} + w -> {wear} + s -> {swear} + n -> {answer}
+{act, cat} + o -> {coat} + r -> {actor} + f -> {factor} + y -> {factory}
+{pan} + l -> {plan} + e -> {panel, plane} + t -> {planet} + y -> {penalty}
+{her} + o -> {hero} + t -> {other} + y -> {theory}
+{eat, tea} + d -> {date} + r -> {trade} + p -> {depart}
+{car} + e -> {acre, care, race} + t -> {cater, react, trace} + p -> {carpet} + h -> {chapter}
+{eat, tea} + r -> {rate, tear} + s -> {stare} + r -> {arrest}
+{her} + o -> {hero} + t -> {other} + b -> {bother} + r -> {brother}
+{tie} + b -> {bite} + r -> {tribe} + m -> {timber}
+{ear, era} + n -> {earn, near} + l -> {learn} + y -> {nearly}
+{die} + v -> {dive} + r -> {drive} + t -> {divert} + c -> {verdict}
+{ear, era} + t -> {rate, tear} + t -> {treat} + y -> {treaty} + b -> {battery}
+{ear, era} + h -> {hear} + t -> {earth, heart} + g -> {gather}
+{lad} + y -> {lady} + i -> {daily}
+{pit, tip} + r -> {trip} + n -> {print}
+{sir} + t -> {stir} + h -> {shirt} + e -> {theirs}
+{set} + a -> {east, seat} + l -> {least, steal} + b -> {stable}
+{art, rat} + s -> {star} + i -> {stair} + t -> {artist} + n -> {transit} + m -> {transmit}
+{ear, era} + c -> {acre, care, race} + m -> {cream} + s -> {scream}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + l -> {latter}
+{sea} + b -> {base} + d -> {based}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + v -> {travel}
+{rid} + e -> {ride} + t -> {tired} + c -> {credit, direct} + v -> {verdict}
+{hat} + e -> {hate, heat} + r -> {earth, heart} + b -> {breath} + e -> {breathe}
+{per} + o -> {rope} + a -> {opera}
+{die} + r -> {ride} + v -> {drive} + e -> {derive} + s -> {diverse}
+{sir} + t -> {stir} + w -> {wrist}
+{her} + a -> {hear} + c -> {reach} + g -> {charge}
+{ear, era} + h -> {hear} + t -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{nor} + b -> {born} + w -> {brown}
+{tin} + u -> {unit} + e -> {unite} + d -> {united}
+{art, rat} + e -> {rate, tear} + t -> {treat} + h -> {threat} + s -> {shatter}
+{set} + a -> {east, seat} + t -> {state, taste} + u -> {statue}
+{sea} + l -> {sale, seal} + r -> {laser} + i -> {serial}
+{old} + u -> {loud} + c -> {cloud, could}
+{net, ten} + d -> {tend} + r -> {trend} + e -> {tender} + p -> {pretend}
+{die} + t -> {diet, edit, tide} + r -> {tired} + v -> {divert} + c -> {verdict}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + n -> {rental} + u -> {neutral}
+{all} + h -> {hall} + s -> {shall}
+{art, rat} + s -> {star} + e -> {stare} + v -> {starve} + h -> {harvest}
+{fur} + o -> {four} + l -> {flour}
+{row} + d -> {word} + n -> {drown} + e -> {wonder}
+{hat} + p -> {path} + c -> {patch}
+{red} + i -> {ride} + b -> {bride} + s -> {debris}
+{end} + e -> {need} + s -> {dense}
+{lab} + e -> {able} + l -> {label} + t -> {ballet}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + h -> {threat} + s -> {shatter}
+{bat} + e -> {beat} + s -> {beast} + l -> {stable}
+{ear, era} + t -> {rate, tear} + c -> {cater, react, trace} + e -> {create} + h -> {teacher}
+{net, ten} + u -> {tune} + i -> {unite} + d -> {united}
+{hot} + s -> {host, shot} + o -> {shoot} + m -> {smooth}
+{how, who} + s -> {show} + e -> {whose} + r -> {shower}
+{ear, era} + w -> {wear} + a -> {aware}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + i -> {retail} + y -> {reality} + r -> {literary}
+{eat, tea} + r -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + e -> {eternal} + v -> {relevant}
+{eat, tea} + g -> {gate} + s -> {stage}
+{row} + g -> {grow} + n -> {wrong}
+{set} + r -> {rest} + o -> {store} + f -> {forest, foster}
+{age} + r -> {gear, rage} + l -> {large}
+{eat, tea} + h -> {hate, heat} + w -> {wheat} + l -> {wealth} + y -> {wealthy}
+{eat, tea} + p -> {tape} + l -> {plate} + n -> {planet} + y -> {penalty}
+{rid} + a -> {raid} + y -> {dairy, diary} + f -> {friday}
+{art, rat} + e -> {rate, tear} + x -> {extra}
+{nor} + i -> {iron} + m -> {minor} + f -> {inform} + u -> {uniform}
+{ear, era} + l -> {real} + y -> {early, layer} + n -> {nearly}
+{day} + r -> {yard} + i -> {dairy, diary} + f -> {friday}
+{age} + t -> {gate} + r -> {great} + h -> {gather}
+{die} + v -> {dive} + o -> {video}
+{eat, tea} + b -> {beat} + l -> {table} + t -> {battle, tablet}
+{eat, tea} + l -> {late, tale} + p -> {plate} + n -> {planet} + y -> {penalty}
+{hat} + w -> {what} + e -> {wheat} + l -> {wealth} + y -> {wealthy}
+{art, rat} + s -> {star} + i -> {stair} + n -> {strain} + t -> {transit} + m -> {transmit}
+{air} + n -> {rain} + t -> {train} + s -> {strain} + t -> {transit} + m -> {transmit}
+{arm} + y -> {army} + o -> {mayor}
+{ear, era} + n -> {earn, near} + g -> {anger, range} + i -> {regain} + d -> {reading}
+{lay} + d -> {lady} + s -> {sadly}
+{pin} + a -> {pain} + t -> {paint}
+{hip} + c -> {chip} + t -> {pitch}
+{age} + d -> {aged} + r -> {grade} + n -> {danger, garden} + i -> {reading}
+{red} + i -> {ride} + t -> {tired} + c -> {credit, direct} + p -> {predict}
+{hit} + w -> {with} + d -> {width}
+{red} + u -> {rude} + c -> {crude} + v -> {curved}
+{ear, era} + p -> {rape} + s -> {spare} + d -> {spread}
+{net, ten} + a -> {neat} + c -> {enact} + c -> {accent}
+{art, rat} + e -> {rate, tear} + s -> {stare} + m -> {master, stream}
+{bet} + d -> {debt} + u -> {debut} + g -> {budget}
+{sea} + t -> {east, seat} + b -> {beast} + n -> {absent}
+{ray} + e -> {year} + l -> {early, layer} + n -> {nearly}
+{see} + l -> {else} + p -> {sleep} + a -> {asleep, please} + d -> {pleased}
+{yes} + a -> {easy} + s -> {essay}
+{net, ten} + a -> {neat} + c -> {enact} + s -> {stance}
+{net, ten} + r -> {rent} + e -> {enter} + d -> {tender} + p -> {pretend}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + b -> {breath} + e -> {breathe}
+{set} + m -> {stem} + a -> {steam} + r -> {master, stream}
+{aid} + r -> {raid} + n -> {drain}
+{bat} + e -> {beat} + s -> {beast} + k -> {basket}
+{ice} + r -> {rice} + p -> {price} + e -> {recipe} + t -> {receipt}
+{sea} + t -> {east, seat} + t -> {state, taste} + e -> {estate}
+{ear, era} + l -> {real} + y -> {early, layer} + l -> {really} + c -> {clearly}
+{hat} + c -> {chat} + m -> {match}
+{ear, era} + h -> {hear} + c -> {reach} + p -> {preach} + t -> {chapter}
+{per} + y -> {prey} + l -> {reply} + a -> {player}
+{lie} + k -> {like} + a -> {alike}
+{net, ten} + r -> {rent} + e -> {enter} + c -> {centre, recent} + p -> {percent}
+{eat, tea} + s -> {east, seat} + t -> {state, taste} + e -> {estate}
+{ago} + l -> {goal} + n -> {along} + s -> {slogan}
+{ear, era} + l -> {real} + y -> {early, layer} + r -> {rarely}
+{sea} + c -> {case} + r -> {scare} + h -> {search}
+{tag} + e -> {gate} + n -> {agent}
+{try} + e -> {tyre} + n -> {entry}
+{sea} + c -> {case} + l -> {scale} + t -> {castle}
+{son} + e -> {nose} + t -> {stone} + h -> {honest} + y -> {honesty}
+{hit} + s -> {this} + r -> {shirt} + e -> {theirs}
+{its, sit} + h -> {this} + r -> {shirt} + e -> {theirs}
+{die} + r -> {ride} + v -> {drive} + e -> {derive} + l -> {deliver} + e -> {relieved}
+{ear, era} + t -> {rate, tear} + h -> {earth, heart} + t -> {threat} + s -> {shatter}
+{wit} + h -> {with} + d -> {width}
+{eat, tea} + r -> {rate, tear} + x -> {extra}
+{die} + a -> {aide, idea} + l -> {ideal} + f -> {failed}
+{she} + r -> {hers} + e -> {sheer} + p -> {sphere}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + d -> {related}
+{art, rat} + e -> {rate, tear} + s -> {stare} + b -> {breast}
+{air} + d -> {raid} + y -> {dairy, diary} + f -> {friday}
+{ear, era} + l -> {real} + n -> {learn} + i -> {linear} + i -> {airline}
+{let} + a -> {late, tale} + r -> {alert, alter, later} + e -> {relate} + n -> {eternal} + x -> {external}
+{die} + r -> {ride} + p -> {pride} + o -> {period} + v -> {provide}
+{sea} + t -> {east, seat} + s -> {asset} + r -> {assert} + c -> {actress}
+{ear, era} + t -> {rate, tear} + s -> {stare} + s -> {assert} + c -> {actress}
+{sea} + t -> {east, seat} + r -> {stare} + v -> {starve} + h -> {harvest}
+{sea} + c -> {case} + u -> {cause, sauce} + c -> {accuse} + d -> {accused}
+{eat, tea} + s -> {east, seat} + b -> {beast} + n -> {absent}
+{rid} + b -> {bird} + e -> {bride} + g -> {bridge}
+{ear, era} + t -> {rate, tear} + c -> {cater, react, trace} + p -> {carpet} + h -> {chapter}
+{rid} + t -> {dirt} + e -> {tired} + v -> {divert} + c -> {verdict}
+{rid} + t -> {dirt} + h -> {third}
+{ear, era} + h -> {hear} + c -> {reach} + g -> {charge}
+{eat, tea} + r -> {rate, tear} + h -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{wet} + s -> {west} + a -> {waste}
+{rod} + a -> {road} + i -> {radio}
+{hot} + s -> {host, shot} + u -> {shout, south}
+{ear, era} + g -> {gear, rage} + t -> {great} + h -> {gather}
+{one} + b -> {bone} + l -> {noble} + d -> {blonde}
+{air} + l -> {rail} + t -> {trail, trial} + b -> {tribal}
+{red} + i -> {ride} + t -> {tired} + o -> {editor}
+{his} + t -> {this} + f -> {shift}
+{eat, tea} + h -> {hate, heat} + r -> {earth, heart} + d -> {hatred, thread}
+{her} + a -> {hear} + t -> {earth, heart} + t -> {threat} + e -> {theatre} + n -> {threaten}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + i -> {retail} + c -> {article} + y -> {literacy} + n -> {certainly}
+{set} + r -> {rest} + a -> {stare} + v -> {starve} + h -> {harvest}
+{toe} + n -> {note, tone} + n -> {tonne}
+{art, rat} + s -> {star} + t -> {start} + i -> {artist} + n -> {transit} + m -> {transmit}
+{air} + n -> {rain} + t -> {train} + e -> {retain} + p -> {painter}
+{air} + l -> {rail} + p -> {april}
+{eat, tea} + r -> {rate, tear} + t -> {treat} + h -> {threat} + e -> {theatre} + n -> {threaten}
+{you} + r -> {your} + s -> {yours}
+{sea} + c -> {case} + r -> {scare} + m -> {scream}
+{her} + s -> {hers} + f -> {fresh}
+{one} + c -> {once} + a -> {ocean}
+{log} + n -> {long} + a -> {along} + s -> {slogan}
+{bit} + e -> {bite} + r -> {tribe} + m -> {timber}
+{ear, era} + l -> {real} + y -> {early, layer} + b -> {barely}
+{ear, era} + g -> {gear, rage} + d -> {grade} + r -> {regard}
+{let} + a -> {late, tale} + b -> {table} + s -> {stable}
+{she} + o -> {shoe} + w -> {whose} + r -> {shower}
+{art, rat} + e -> {rate, tear} + l -> {alert, alter, later} + n -> {rental} + c -> {central}
+{rid} + e -> {ride} + b -> {bride} + s -> {debris}
+{sea} + t -> {east, seat} + m -> {steam} + r -> {master, stream}
+{set} + i -> {site} + p -> {spite} + r -> {priest} + s -> {persist}
+{net, ten} + s -> {nest} + e -> {teens}
+{rod} + p -> {drop} + u -> {proud}
+{nod} + w -> {down} + u -> {wound}
+{her} + a -> {hear} + t -> {earth, heart} + b -> {breath} + e -> {breathe}
+{lay} + d -> {lady} + e -> {delay} + d -> {deadly}
+{hit} + w -> {with} + e -> {white} + g -> {weight}
+{eat, tea} + l -> {late, tale} + r -> {alert, alter, later} + n -> {rental} + e -> {eternal} + x -> {external}
+{raw, war} + e -> {wear} + t -> {water} + i -> {waiter}
+{lay} + p -> {play} + p -> {apply}
+{rid} + a -> {raid} + p -> {rapid}
+{rip} + t -> {trip} + s -> {strip} + c -> {script}
+{pet} + s -> {step} + i -> {spite} + r -> {priest} + s -> {persist}
+{red} + i -> {ride} + v -> {drive} + r -> {driver}
+{her} + e -> {here} + t -> {there, three} + i -> {either} + n -> {neither} + t -> {thirteen}
+{arm} + y -> {army} + r -> {marry}
+{see} + d -> {seed} + n -> {dense}
+{art, rat} + e -> {rate, tear} + t -> {treat} + l -> {latter}
+{ear, era} + t -> {rate, tear} + l -> {alert, alter, later} + e -> {relate} + n -> {eternal} + x -> {external}
+{log} + a -> {goal} + n -> {along} + l -> {gallon}
+{air} + n -> {rain} + g -> {grain} + t -> {rating} + d -> {trading}
+{pet} + y -> {type} + m -> {empty}
+{set} + r -> {rest} + a -> {stare} + b -> {breast}
+{ear, era} + b -> {bare, bear} + k -> {break} + m -> {embark}
+{red} + i -> {ride} + t -> {tired} + v -> {divert} + c -> {verdict}
+{ear, era} + l -> {real} + t -> {alert, alter, later} + i -> {retail} + c -> {article} + v -> {vertical}
+{eat, tea} + r -> {rate, tear} + s -> {stare} + m -> {master, stream}
+{sir} + e -> {rise} + a -> {arise, raise} + p -> {aspire, praise}
+{air} + l -> {rail} + v -> {rival}
+{set} + r -> {rest} + o -> {store} + p -> {poster} + t -> {protest}
+{ear, era} + c -> {acre, care, race} + h -> {reach} + b -> {breach} + m -> {chamber}
+{win} + d -> {wind} + e -> {widen}
+{sea} + k -> {sake} + p -> {speak}
+{bat} + s -> {stab} + e -> {beast} + n -> {absent}
+{her} + i -> {hire} + t -> {their} + e -> {either} + n -> {neither} + t -> {thirteen}
