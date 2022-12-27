@@ -20,7 +20,7 @@ fn main() -> Result<(), Box<dyn error::Error>>
     graph.to_dot(out)?;
 
     let out = fs::File::create("./out/paths.txt")?;
-    graph.to_paths(out, 3, (3, 7))?;
+    graph.to_paths(out, 3, (3, 18))?;
 
     println!("{}", graph);
 
