@@ -6,6 +6,7 @@ type Props = {
     symbol: string,
     facedown: boolean,
     onClick: React.MouseEventHandler<HTMLSpanElement>,
+    win: boolean,
 };
 
 type State = { };
@@ -17,8 +18,12 @@ class Card extends React.Component<Props, State>
         let symbol = this.props.symbol;
 
         if (this.props.facedown) {
-            classes = ' facedown-card';
+            classes += ' facedown-card';
             symbol = '';
+        }
+
+        if (this.props.win) {
+            classes += ' victory-lap';
         }
 
         return (

@@ -10,6 +10,7 @@ type Props = {
     deleteTransform: (guess: string) => string,
     clearTransform: (guess: string) => string,
     onButtonClick: (transform: (guess: string) => string) => void,
+    win: boolean,
 };
 
 type State = { };
@@ -23,6 +24,7 @@ class Display extends React.Component<Props, State>
                 symbol={card.symbol}
                 facedown={card.facedown}
                 onClick={card.onClick}
+                win={this.props.win}
             />
         );
 

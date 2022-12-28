@@ -137,6 +137,7 @@ class Game extends React.Component<Props, State>
             symbol,
             facedown: false,
             onClick: this.onCardClick.bind(this),
+            win: this.state.win,
         }));
 
         cards.push(...path.map((round, index) => ({
@@ -144,6 +145,7 @@ class Game extends React.Component<Props, State>
             symbol: round.next!,
             facedown: this.state.round <= index,
             onClick: this.onCardClick.bind(this),
+            win: this.state.win,
         })));
 
         return cards;
@@ -169,6 +171,7 @@ class Game extends React.Component<Props, State>
                     deleteTransform={(guess: string) => guess.substring(0, guess.length - 1)}
                     clearTransform={(guess: string) => ''}
                     onButtonClick={this.onButtonClick.bind(this)}
+                    win={this.state.win}
                 />
                 <Guess
                     guess={this.state.guess}
