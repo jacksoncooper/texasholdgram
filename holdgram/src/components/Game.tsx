@@ -59,13 +59,20 @@ class Game extends React.Component<Props, State>
 
             let progress = this.checkGuess(guess, state);
 
-            if (state.round + 1 === progress.round) {
+            if (state.round + 1 === progress.round || progress.win) {
                 this.placeholder = guess;
                 guess = '';
             }
 
             return { ...progress, guess };
         });
+    }
+
+    onButtonClick(transform: (input: string) => string) {
+        this.setState((state, _) => ({
+            ...state,
+            guess: transform(state.guess),
+        }));
     }
 
     onCardClick(event: React.MouseEvent<HTMLSpanElement>) {
@@ -89,7 +96,7 @@ class Game extends React.Component<Props, State>
 
             let progress = this.checkGuess(guess, state);
 
-            if (state.round + 1 === progress.round) {
+            if (state.round + 1 === progress.round || progress.win) {
                 this.placeholder = guess;
                 guess = '';
             }
@@ -126,14 +133,14 @@ class Game extends React.Component<Props, State>
         let cards = [...flop].map(symbol => ({
             symbol,
             facedown: false,
-            onCardClick: this.onCardClick.bind(this),
+            onClick: this.onCardClick.bind(this),
         }));
 
         cards.push(...path.map((round, index) => ({
             // Non-null assertion because each vertex except the last contains an edge symbol.
             symbol: round.next!,
             facedown: this.state.round <= index,
-            onCardClick: this.onCardClick.bind(this),
+            onClick: this.onCardClick.bind(this),
         })));
 
         return cards;
@@ -150,7 +157,12 @@ class Game extends React.Component<Props, State>
         return (
             <div>
                 <Caption round={this.state.round} win={this.state.win} />
-                <Display cards={this.toCards(this.flop, this.props.path)} />
+                <Display
+                    cards={this.toCards(this.flop, this.props.path)}
+                    deleteTransform={(guess: string) => guess.substring(0, guess.length - 1)}
+                    clearTransform={(guess: string) => ''}
+                    onButtonClick={this.onButtonClick.bind(this)}
+                />
                 <Guess
                     guess={this.state.guess}
                     placeholder={this.placeholder}

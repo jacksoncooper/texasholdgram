@@ -5,7 +5,7 @@ import 'components/Card.css';
 type Props = {
     symbol: string,
     facedown: boolean,
-    onCardClick: React.MouseEventHandler<HTMLSpanElement>,
+    onClick: React.MouseEventHandler<HTMLSpanElement>,
 };
 
 type State = { };
@@ -22,7 +22,7 @@ class Card extends React.Component<Props, State>
         }
 
         return (
-            <span className={`card${classes}`} onClick={this.props.onCardClick}>
+            <span className={`card${classes}`} onClick={this.props.onClick}>
                 {symbol}
             </span>
         );
