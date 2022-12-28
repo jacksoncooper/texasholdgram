@@ -11,7 +11,7 @@ import Hint from 'components/Hint';
 import Share from 'components/Share';
 
 import type { Path } from 'paths';
-import { shuffleRound } from 'paths';
+import { shuffle, shuffleRound } from 'paths';
 
 type Props = {
     path: Path,
@@ -29,6 +29,7 @@ class Game extends React.Component<Props, State>
 {
     flop: string;
     placeholder: string;
+    prize: string;
 
     constructor(props: Props) {
         super(props);
@@ -42,6 +43,8 @@ class Game extends React.Component<Props, State>
             win: false,
             hint: 0,
         };
+
+        this.prize = shuffle(["🎉", "⭐️", "🚀", "💪", "🍰", "✌️", "👑", "💖", "🪩", "💡", "🙌", "👏", "🌈"]).pop() as string;
     }
 
     onGuessChange(event: React.FormEvent<HTMLInputElement>) {
@@ -156,7 +159,11 @@ class Game extends React.Component<Props, State>
     render() {
         return (
             <div>
-                <Caption round={this.state.round} win={this.state.win} />
+                <Caption
+                    round={this.state.round}
+                    win={this.state.win}
+                    prize={this.prize}
+                />
                 <Display
                     cards={this.toCards(this.flop, this.props.path)}
                     deleteTransform={(guess: string) => guess.substring(0, guess.length - 1)}
@@ -174,6 +181,7 @@ class Game extends React.Component<Props, State>
                     faceup={this.flop.length + this.state.round}
                     facedown={this.props.path.length - 1 - this.state.round}
                     win={this.state.win}
+                    prize={this.prize}
                 />
                 <Hint
                     round={this.props.path[this.state.round]}

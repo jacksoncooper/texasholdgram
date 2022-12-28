@@ -7,6 +7,7 @@ import { daysFromEpoch, shuffle } from 'paths';
 type Props = {
     round: number,
     win: boolean,
+    prize: string,
 };
 
 type State = { };
@@ -49,7 +50,7 @@ class Caption extends React.Component<Props, State>
 {
     toCaption() {
         if (this.props.win) {
-            return "victory! 🎉";
+            return `the victory! ${this.props.prize}`;
         }
 
         let round = this.props.round;

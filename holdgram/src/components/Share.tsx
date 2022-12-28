@@ -7,6 +7,7 @@ type Props = {
     faceup: number,
     facedown: number,
     win: boolean,
+    prize: string,
 };
 
 type State = {
@@ -47,7 +48,7 @@ class Share extends React.Component<Props, State>
         }
 
         if (this.props.win) {
-            readable.push('🎉');
+            readable.push(this.props.prize);
         }
 
         return readable.join('');
