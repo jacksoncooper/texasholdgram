@@ -1,8 +1,8 @@
 .card {
     display: inline-flex;
 
-    margin: 0.2rem;
-    margin-bottom: 2rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
 
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@
     border-color: #FF6C0A;
     background-color: #F6EFA2;
     color: #FF6C0A;
-    transform: rotateY(360deg) rotate(-4deg);
+    transform: rotateY(360deg);
 }
 
 @media (hover: hover) {

@@ -50,7 +50,7 @@ class Caption extends React.Component<Props, State>
 {
     toCaption() {
         if (this.props.win) {
-            return `the victory! ${this.props.prize}`;
+            return `victory! ${this.props.prize}`;
         }
 
         let round = this.props.round;
