@@ -1,8 +1,6 @@
 .card {
     display: inline-flex;
 
-    margin-bottom: 1rem;
-
     justify-content: center;
     align-items: center;
 

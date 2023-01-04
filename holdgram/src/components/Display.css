@@ -1,5 +1,7 @@
 .display {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    row-gap: 0.8rem;
+    column-gap: 0.8rem;
 }
