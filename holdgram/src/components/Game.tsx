@@ -162,6 +162,7 @@ class Game extends React.Component<Props, State>
         return (
             <div>
                 <Caption
+                    identifier={this.props.identifier}
                     round={this.state.round}
                     win={this.state.win}
                     prize={this.prize}

@@ -1,7 +1,16 @@
-.caption {
-    margin: 0;
+.caption-container {
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
 
+.caption {
+    margin: 0;
     font-size: 4rem;
+    font-weight: 500;
+}
+
+.puzzle-number {
+    margin: 0;
+    font-style: italic;
+    font-weight: 400;
 }

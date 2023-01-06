@@ -5,6 +5,7 @@ import 'components/Caption.css';
 import { daysFromEpoch, shuffle } from 'paths';
 
 type Props = {
+    identifier: number,
     round: number,
     win: boolean,
     prize: string,
@@ -67,7 +68,13 @@ class Caption extends React.Component<Props, State>
     }
 
     render() {
-        return <p className='caption'>{this.toCaption()}</p>;
+        let today = (new Date()).toLocaleDateString(undefined, {dateStyle: 'full' });
+        return (
+            <div className='caption-container'>
+                <p className='caption'>{this.toCaption()}</p>
+                <p className='puzzle-number'>{`${today} (#${this.props.identifier})`}</p>
+            </div>
+        );
     }
 }
 
