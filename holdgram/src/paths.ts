@@ -43,8 +43,9 @@ function daysFromEpoch(): { days: number, from: Date }
 
 function selectPath(paths: string[]): { identifier: number, path: Path }
 {
-    let { days, from } = daysFromEpoch();
-    let offset = (from.valueOf() + days) % paths.length;
+    let { days } = daysFromEpoch();
+    // let offset = (from.valueOf() + days) % paths.length;
+    let offset = days % paths.length;
 
     return {
         identifier: offset + 1,
